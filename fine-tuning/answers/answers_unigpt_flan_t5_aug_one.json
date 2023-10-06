@@ -1,0 +1,402 @@
+[
+    {
+        "guid": "94cdfd24-de94-4072-a5aa-a3a9dc953d2b",
+        "model_answer": "The coefficients impairs (resp. pairs) are nuls."
+    },
+    {
+        "guid": "3826e1bd-05f7-4f80-a6ad-937af83dc3e4",
+        "model_answer": "To prove that the methods map and mapTr are equivalent, we need to prove the following lemma: (AccOut) l.mapTr(f, y :: ys) === xs (ConsAppend) Nil ++xs == xs(Consappend) x ++ (f(x):: Nil)) (NilAppend). Nil = 0 - 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18 - 20 - 22 - 21 - 23 - 24 - 26 - 25 - 27 - 28 - 29 - 31 - 30 - 32 - 33 - 34 - 35 - 36 - 38 - 45 - 37 - 40 - 42 - 39 - 41 - 44 - 48 - 58 - 54 - 52 - 51 - 55 - 56 - 53 - 46 - 50 - 65 - 60 - 64 - 49 - 43 - 47 - 72 - 70 - 75 - 80 - 90 - 85 - 100 - 110 - 130 - 120 - 140 - 160 - 150 - 180 - 300 - 200 - 250 - 400 - 500 - 600 - 1000 - 700 - 350 - 800 - 1500 - 1600 - 1800 - 2000 - 19 - 01 - 06 - 02 - 03 - 04 - 09 - 08 - 07 - 24- 06  10  1  2  3  4  5   6  8  9  7  11  12  13  15  14  16  17  18  19  20  21  22  23  24  25  26  29  27  30  28  31"
+    },
+    {
+        "guid": "f6f7e3a3-b63a-4f13-abbe-a2b3f74c64e5",
+        "model_answer": "Entanglement is necessary but not necessary for the violation of a Bell inequality."
+    },
+    {
+        "guid": "0b473eff-0fc8-4fb0-9d10-bc49d18e52e3",
+        "model_answer": "Pour calculer la d\u00e9rivation et l'int\u00e9gration de fonctions, nous pouvons utiliser cette exercice : 1. f(x) = rac-3x2 3. e2x 4. e = sin(x), cos(x). Cette exercice est un bref rappel de maths, qui doit vous servir de \"d\u00e9tecteur de fum\u00e9e\", c'est typiquement le niveau de difficult\u00e9 que nous allons rencontrer concernant la derivation and la integration des fonctions."
+    },
+    {
+        "guid": "6654c2b0-4dcd-432e-9c8e-26d638afe0ef",
+        "model_answer": "The worst case complexity of listing files in a directory is $O(1)$. The file system implements directories as hash-tables, which is a type of file system that can be used to store files in the directory. This is because the file system uses directories to store the files, which can be accessed through a file system. This means that the files can be stored in the folders of the directory, such as the directory where the files are stored, and where the file is stored. The files can also be stored on a large file system such as a sys file or a computer."
+    },
+    {
+        "guid": "202f9e3f-be4d-4b51-8789-f4eb0666690f",
+        "model_answer": "When using linear regression, you can help prevent numerical instabilities by adding a regularization term and removing degenerate features."
+    },
+    {
+        "guid": "198d8637-b6eb-4a3a-92c0-6baad4f34a2e",
+        "model_answer": "The first file representing the muche is a file containing the tables of the files that they contain. The second file represents the most important information in the file, and the third file represents a lot of information."
+    },
+    {
+        "guid": "da3590dc-4da0-4790-bd94-b9e56450702b",
+        "model_answer": "Si (fin C1(I)), alors il n'existe aucun  (x_0in I) o\u00f9 [f] est deux fois d\u00e9rivable."
+    },
+    {
+        "guid": "299255b4-6b4b-423b-bafa-e1f2ca04ecb5",
+        "model_answer": "Subsequent URLs in an adjacency list have typically small differences, and Typically many URLs among two pages with similar URL are similar."
+    },
+    {
+        "guid": "92251192-94ec-4d07-a94c-34775db00d70",
+        "model_answer": "The variance of the random variable $wv op xx$ over the randomness of $x$ is emphmaximal. Therefore, the probability of finding a random vector distributed according to the uniform distribution over the finite centered dataset $Xv_1,.., xv_N$ is the probability that a unit vector is distributed over a finite dataset. This is because the random vector is a vector that can be distributed in a uniform manner. The probability that an object is distributed in the uniform manner depends on the number of vectors that are distributed. This means that the vectors are distributed in an uniform manner, which can be used to determine the variance of an object's randomness."
+    },
+    {
+        "guid": "b82db1db-a6f9-4e3a-8d45-9a89cfddd953",
+        "model_answer": "The gradient is very large so the model can't converge. Training is fine, but our neural net does only as well as a linear model."
+    },
+    {
+        "guid": "e07a6c79-461a-40f2-b8a8-402f92e38839",
+        "model_answer": "The polarization state of a $alpha$-degree linearly polarized input beam that is passing through a HWP is $fracpi2$. This is because the polarizing state of the beam depends on the thickness $(d)$ of the n_x field. This means that if the d_y field is a squared area, the equator of the wave plate will be $fraction2 plambda d N_z$, which is the refractive indexes. Therefore, the phase difference for quarter wave plates (QWP) and half wave plate (HWP), respectively, is $dfracp2$ and $spi$ respectively."
+    },
+    {
+        "guid": "1f0c9830-5cb9-44ef-865a-1681b7cae654",
+        "model_answer": "Les \u00e9lectrons poss\u00e8de une degr\u00e9 de libert\u00e9 quantique qui s'appelle la spin. Le spin est analogue \u00e0 un aimant microscopique avec un p\u00f4le nord et un P\u00f4le sud. La composante de spin $ecS$ de chaque electron selon un axe donn\u00e9 (par ex. $S_z$ selon $z$) ne peut prendre que 2 valeurs: 1. S_z=+1$ (vers le haut) ou 2. S_Z=-1$ (vert le bas) Lorsque plus de spins pointent dans une direction plut\u00f4t qu'une autre, the spin total (somme des spins individuels) is non nul and il existe une magn\u00e9tisation du mat\u00e9riau (c'est une aimant au sens commun du terme). Nous voulons \u00e9tudier la physique statistique d'un ensemble de 50 electrons, ayant chacun leur spin pouvant pointer vers le haut ou vers le bas. This exercise is particularly int\u00e9ressant \u00e0 faire chez vous avec a ordinateur (par exemple with Python) ou a calculatrice graphique, for applications num\u00e9riques. Combien existent-ils de stabilit\u00e9 microskopiques?"
+    },
+    {
+        "guid": "8dca0280-913e-469b-a9b0-e0edea7fc589",
+        "model_answer": "The word \"time\" would be stored by the Viterbi algorithm in the node associated to V for the word \"Time\"."
+    },
+    {
+        "guid": "e82b5b83-63be-4052-8b90-856964aa898b",
+        "model_answer": "La d\u00e9riv\u00e9e \u00e0 droite est (f'_+(a)=ell)."
+    },
+    {
+        "guid": "fb202e2b-e599-44d7-b4ff-3fec50e91311",
+        "model_answer": "The mean squared error of $f$ for a sample, where $textbfx$ is an input, $y$ a target, and $f(x,W)$ the mapping function is $-log(P(y = i | i| i))$. The mapping function can be used to calculate the squared errors in the sample, but it is not the correct answer."
+    },
+    {
+        "guid": "7690f1a8-df38-4e65-a667-09f0877fb255",
+        "model_answer": "The memory address where a particular instruction was fetched (i.e., the value of the PC at the time of fetching) inside the reorder buffer would be there. Therefore, the answer is yes."
+    },
+    {
+        "guid": "a442d457-38a3-4ec4-898f-89cbbf5db372",
+        "model_answer": "endcases ]"
+    },
+    {
+        "guid": "bfb2e9ae-9035-40ee-8406-b95519d675ac",
+        "model_answer": "L'acc\u00e9l\u00e9rateur de particules LHC du CERN g\u00e9n\u00e8re 1 Po/s (= 10(15) octets/s), soit l'\u00e9quivalent de 12 ans de vid\u00e9o en HD par seconde! Il n'existe pas \u00e0 construire une connexion assez rapide pour y enregistrer tous ces donn\u00e9es en temps r\u00e9el sans perdre. Une batterie de circuits logiques (hardware) analysent ces donn\u00e9es in temps r\u00e9el et filtrent par un facteur de 1000 avant de injecterdirectement dans les m\u00e9moires centrales d'une batterie des processeurs sp\u00e9cialis\u00e9s qui r\u00e9duisent encore par une facteur duordre de 1000. En arrondissant les ordres de grandeur, combien de disques \u00e0 100 Mo/s en parall\u00e8le sont n\u00e9cessaires pour une d\u00e9bit de 1 Go/s."
+    },
+    {
+        "guid": "6fab6a7c-f678-401b-965d-4b1b7e514852",
+        "model_answer": "The worst case complexity of listing the contents of the directory is $O(1)$. The file system implements directories as linked-lists, which is a type of file system that can be used to organize the files in a directory. $O(number of direntries in the directory)$ is the size of the file system, which means that the directory has a large number of direct links to the directory. This is because the directories can be grouped into two categories: $O(2)$, $O(3)$, and $O(4)$."
+    },
+    {
+        "guid": "841d52c7-5353-424c-a1f4-8ebf473ecc6d",
+        "model_answer": "The update rule for SGD with a batch size $B$ and a constant step-size $alpha=frac1L$ is used to solve the problem using the minibatch Stochastic Gradient Descent (SGD)."
+    },
+    {
+        "guid": "f72cf01b-8f66-4e8f-a3b9-3bfb27f562d7",
+        "model_answer": "The maximum value of the optimization problem in Eq.(AMCrefeq:opt_adv_regression) is $(5+9arepsilon)2$."
+    },
+    {
+        "guid": "60c20157-95f6-4cf5-b71c-29ce9d194200",
+        "model_answer": "The function that takes as input the data matrix X and the labels y, returns the coefficient and the bias of linear regression predictor using the closed-form solution."
+    },
+    {
+        "guid": "3538e748-434d-4ed8-adc3-e9bda94c46c9",
+        "model_answer": "Si il existe deux sous-suites ((a_n_k)_k) et ((b_in_k_), telles qu'(0leq a_n) for tout k (k), alors sum_na_in convergent aussi."
+    },
+    {
+        "guid": "426d5d69-1a8d-4aca-b6f3-71b5a9af11ab",
+        "model_answer": "A. case _ => if (rank(lh) >= rank(rh)) Node(rank(h) + 1, x, rh, lh), h2 = h match - case Empty() => 1 case Yesde(r, v, h1, h2) => 2 def insert(x: Int, x: Heap) = merge(h, Node(0) + 1 - h) - def findMin(h: H): h = 0 while h = h: if h is a parent node of C, then the rank of R is less than or equal to rank of L. Therefore, rank of C is the number of edges on the shortest path from node C to a leaf node."
+    },
+    {
+        "guid": "30afbb49-8450-43c9-bb4d-ffd127127497",
+        "model_answer": "(logbig(1+dfrac23sqrt2))"
+    },
+    {
+        "guid": "7c17680c-400d-4adf-96cb-7af4b14ff562",
+        "model_answer": "Pour calculer l'int\u00e9gralit\u00e9 ( int_0pi1/33sin(x33)),cos(33),x32,dx:."
+    },
+    {
+        "guid": "d9b30a74-5f67-4c4a-9a83-e9bfd09bc47d",
+        "model_answer": "If (Asubset bR) n'est pas ouvert, then the option is ferm\u00e9."
+    },
+    {
+        "guid": "99de7be3-24e6-45b7-9ef3-a9f1bd649c8a",
+        "model_answer": "To find the jones vector representation of the output beam if it is passing through a QWP/HWP, we can use the fracpi4$ degree polarized input beam. This is because the polarization state of a beam depends on the thickness $(d)$ of the beam. Therefore, the phase difference for quarter wave plates (QWP) and half wave plates is $fracp2$ and $p$ respectively."
+    },
+    {
+        "guid": "f2ccb67e-6051-4111-8434-0209cad56ee3",
+        "model_answer": "To be evaluable through accuracy, an NLP task must satisfy the property(ies) of the task. This property(i) is a property that can be used as an evaluation metric for various NLP tasks. Therefore, a general evaluation metrics are needed to be able to be used to evaluate accuracy through accuracy."
+    },
+    {
+        "guid": "04ca849b-3186-4abc-b865-c512d9119e0a",
+        "model_answer": "To list two common types of exceptions which must be implemented precisely, we need to list the two common exceptions that must be executed precisely."
+    },
+    {
+        "guid": "36d8f75e-6249-4cab-9e1e-69571358b0ad",
+        "model_answer": "To build a convolutional neural network f that detects edges in1D inputs, we need to use a single filter of size 2, a=(a_1, a_2)."
+    },
+    {
+        "guid": "e1a1b845-bc57-4250-a715-6b7bf2f3e192",
+        "model_answer": "The edge betweenness for edge (7-5) in the following graph is 7-5. The choice is 12.5, and the answer is 7.5."
+    },
+    {
+        "guid": "7a2855e0-5c47-4622-b025-4dfa11353f41",
+        "model_answer": "$h_1$ is a conc-tree with a height of $h$."
+    },
+    {
+        "guid": "f24af540-a417-4810-b572-c6a816fd36d8",
+        "model_answer": "In this problem, you are asked to design an estimator that asks at most $3000 log(1/delta)/epsilon2$ persons and (ii) explain why it satisfies the guarantee."
+    },
+    {
+        "guid": "aac16eb3-0584-4b0d-bee5-311565c0b0d7",
+        "model_answer": "(e-a_nto 0)"
+    },
+    {
+        "guid": "c304254e-8c84-4179-a6a8-a78b3bdd633d",
+        "model_answer": "The tools (a)-(e) to the following task are: Supervised regression, prediction, estimation, and unsupervised clustering. Based on database of texts in different languages learn to recognize the language of a sentence."
+    },
+    {
+        "guid": "6f0d7868-be35-4f47-8770-22999fe667a9",
+        "model_answer": "\u00c9crivez un algorithme pour r\u00e9soudre ce probl\u00e8me."
+    },
+    {
+        "guid": "32cb1531-16d4-4bd0-871d-09c05f083d33",
+        "model_answer": "The float of a fishing rod is a cylindrical shape with a radius $r$, a height $h$ and with an homogeneous mass. It moves from top to bottom while always staying partially submerged. It is subject to the Archimedian buoyancy $ecP_A$ and at a viscous friction force $\u00e9cF = -ketaecv$. The volumic mass of the float has a value equal to two thirds of the one of water : $ ho_f= rac23 ho_eau$, and the damping coefficient $lambda$ as function of the problem data."
+    },
+    {
+        "guid": "215d2a69-d6c0-4aca-bf47-70eb2091c3fe",
+        "model_answer": "The Prime+Probe cache attack is a cache attack that is used to store data in a database. This cache attack can be used to retrieve information about the victim code, such as the password, password, and password. The attacker can use this information to identify the attacker's identity."
+    },
+    {
+        "guid": "19799141-5b4f-4239-bc50-dd5c1c14a3e9",
+        "model_answer": "Pour d\u00e9terminer les matrices suivantes, il y a left(beginarrayccc2 & 4 & 3-4 & -6& -33 & 3, & 1end'array right) et quadC = len(bbbc4 & 5 & 20 & 0, 01 & 4, -10-1 & 2, -20, -1), qudS = -lens(abbac5 & 9 & 10 & 11 & 12 & 13 & 14 & 15 & 16 & 17 & 18 & 21 & 22 & 23 & 24 & 25 & 26 & 27 & 28 & 29 & 30 & 31 & 32 & 33 & 34 & 35 & 45 & 36 & 37 & 38 & 39 & 42 & 40 & 41 & 44 & 46 & 48 & 43 & 47 & 51 & 52 & 53 & 54 & 49 & 55 & 56 & 50 & 65 & 64 & 60 & 72 & 75 & 85 & 90 & 70 & 80 & 100 & 99 & 95 & 110 & 101 & 8 & 6 & 7 & 19 & 20 & 120 & 130 & 150 & 300 & 180 & 140 & 200 & 250 & 500 & 1000 & 400 & 600 & 700 & 800 & 1500 & 2000 & 1800 & N & B & C & F & D & E & R & G & L & H & S & T & V & A & P & M & O & J & K & W & Z & U & Q &"
+    },
+    {
+        "guid": "f3ca44ac-51a9-4ff7-aec4-7b7d76f4837f",
+        "model_answer": "The difficulty in measuring the response of a cell in order to calculate its transfer function in absence of an analytical template is that it is not necessary to obtain responses to enough different stimuli from a single cell. Therefore, the correct answer is Eliminating noise from the measurement."
+    },
+    {
+        "guid": "a559e3e1-2520-4d95-9cc1-7cce4798fea3",
+        "model_answer": "Lengthy data acquisition"
+    },
+    {
+        "guid": "52f78310-1458-4ad2-9605-e99a10e73550",
+        "model_answer": "The advantages of scoring procedures such as the one proposed by Druckmann et al. (2007) have over simple least square distance based procedures. They account for variability in the experimental data and penalize the model according to experimental variability. They can focus on reproduction of some features rather than perfect reproduction of the experimental dataset. They do not sum the features."
+    },
+    {
+        "guid": "70f8efa0-1816-445b-a053-cf92ee323bab",
+        "model_answer": "The natural frequency of precession and Larmor frequency are different names for the same frequency."
+    },
+    {
+        "guid": "98df46d4-9b69-4702-8e58-6e4c2fedc94e",
+        "model_answer": "Pour chacune des systemes suivantes, l'\u00e9chelonn'ee et la solution g'en'erale ont identifier les variables de base, en utilisant la matrice augment\u00e9 sous forme d'echelon."
+    },
+    {
+        "guid": "59c0251a-f677-46d1-aff0-a5435e62230c",
+        "model_answer": "[a]item La matrice d'une forme quadratique est sym\u00e9trique. Les vecteurs propres de $A$ sont tous strictement positives, alors la forme quadrantique $XTAx$ est d\u00e9finie positive. endenumerate"
+    },
+    {
+        "guid": "13739c83-35d1-4fec-867c-98bd69f9ae73",
+        "model_answer": "Because it is almost impossible to train a network with 10 layers without a supercomputer."
+    },
+    {
+        "guid": "dc243fc6-5295-426f-ace7-c1594dcb4d59",
+        "model_answer": "Genetic knockouts and Patch-clamp are tools used to study gene regulatory networks. These tools can be used to determine the role of genes in gene regulation networks."
+    },
+    {
+        "guid": "2f7b092b-e05b-4b04-a99c-b9963f8e3032",
+        "model_answer": "[mathjaxinline]leftlangle ei phileft(t_1right)-i pit t+iphi(t)]"
+    },
+    {
+        "guid": "23ffa81e-c9d4-4c01-87ef-d88bb108587b",
+        "model_answer": "The correct statement about cable theory is that the conductance for each ion stays the same all along the axon and dendrites. The change in voltage over the distance is related to the change of voltage over time."
+    },
+    {
+        "guid": "2fabe332-48ef-433b-9b1c-b4e486180637",
+        "model_answer": "The smallest value we can achieve for $|mathbfX-hatmathefx|_F2$ is $N-D-1$, which means that $T$ is a diagonal matrix with $s_1=N$ and $S_3=cdots=s__D=1$. Therefore, we can reconstruct the data from $D$ to 1 dimensions via a linear transform represented by a $1 times D$ matrix, which is represented by $S$ matrix $R$ and reconstructs then via $D  times 1$ matrix. The answer is (a)."
+    },
+    {
+        "guid": "1986353f-b780-4b31-94d6-fd9af077fb07",
+        "model_answer": "Genetic characteristics vary between cell types, but genetic characteristics do not. Differences in epigenetics do not influence gene expression whereas genetic variability does."
+    },
+    {
+        "guid": "b1ea7aed-566b-4da0-803d-f29fc4cf50e1",
+        "model_answer": "Pour tout matrice inversible (P) de taille $ntimes n, $lambda est une valeur propre de $(A) si et seulement si $P-1AP est un valeur propre."
+    },
+    {
+        "guid": "d563f81d-6eef-4e06-b40c-e00352d5aa78",
+        "model_answer": "Les op'erations 'el'ementaires sur les lignes dites \"valides\" (\u00e0 savoir, l'ajout d'une ligne \u00e0 une autre, le\u00e9change de deux lignes, et la multipliplication de chaque ligne par un r\u00e9el non nul) transforment une systemelin'Eaire en un seme."
+    },
+    {
+        "guid": "c1bc4cc6-e6af-4bb6-86c2-1dee8ec49ad2",
+        "model_answer": "On the u-nullcline, arrows point always vertically upward, and on the horizontal u - w coordinate system, they point always to the left. Therefore, the correct answer is (u,w) coordinate system."
+    },
+    {
+        "guid": "f732d470-1631-4a0d-b1f6-51e937cf55be",
+        "model_answer": "( dW_mag = int_0B B*dH*dV )."
+    },
+    {
+        "guid": "88379c2b-4bda-41c0-b1c1-e44dc19ea14b",
+        "model_answer": "In Cl plasma etching, a corrosion phenomenon occurs under the form of chlorine-containing residues remaining on the film sidewalls. Therefore, the correct approach is to avoid this problem."
+    },
+    {
+        "guid": "ec128ef4-97e2-4998-a41c-e6eab0953c8c",
+        "model_answer": "The \"Consensus-Based Total-Order Broadcast\" algorithm transforms a consensus abstraction into a total-order broadcast abstraction. This transformation is a result of a combination of the two primitives in the other direction, which is to implement a (uniform) consensus abstraction."
+    },
+    {
+        "guid": "2b3de139-3757-4f15-9b48-e785fd51c3f4",
+        "model_answer": "The main difference between PET and SPECT is that PET scan begins with the administration of a radiopharmaceutical, and PET scan requires a longer time for data collection."
+    },
+    {
+        "guid": "19799141-5b4f-4239-bc50-dd5c1c14a3e9",
+        "model_answer": "Pour d\u00e9terminer les matrices suivantes, il y a left(beginarrayccc2 & 4 & 3-4 & -6& -33 & 3, & 1end'array right) et quadC = len(bbbc4 & 5 & 20 & 0, 01 & 4, -10-1 & 2, -20, -1), qudS = -lens(abbac5 & 9 & 10 & 11 & 12 & 13 & 14 & 15 & 16 & 17 & 18 & 21 & 22 & 23 & 24 & 25 & 26 & 27 & 28 & 29 & 30 & 31 & 32 & 33 & 34 & 35 & 45 & 36 & 37 & 38 & 39 & 42 & 40 & 41 & 44 & 46 & 48 & 43 & 47 & 51 & 52 & 53 & 54 & 49 & 55 & 56 & 50 & 65 & 64 & 60 & 72 & 75 & 85 & 90 & 70 & 80 & 100 & 99 & 95 & 110 & 101 & 8 & 6 & 7 & 19 & 20 & 120 & 130 & 150 & 300 & 180 & 140 & 200 & 250 & 500 & 1000 & 400 & 600 & 700 & 800 & 1500 & 2000 & 1800 & N & B & C & F & D & E & R & G & L & H & S & T & V & A & P & M & O & J & K & W & Z & U & Q &"
+    },
+    {
+        "guid": "45f4f919-77fb-4bbc-92f6-172fec8f4a92",
+        "model_answer": "The answer to the question is no. The answer is yes. The choices are: Yes."
+    },
+    {
+        "guid": "f1d23839-38a5-46f6-946d-c0a11cc6c4e8",
+        "model_answer": "The tissue contrast in MRI is obtained with differences in the Gyromagnetic ratio, Spin-spin and spin-lattice relaxation constants, and carbon and nitrogen abundance."
+    },
+    {
+        "guid": "d12be254-279f-4223-852c-9bb0791bb816",
+        "model_answer": "(108.2 cdot 106) m"
+    },
+    {
+        "guid": "6a7100d1-64e2-426d-b762-62bafa8b9d55",
+        "model_answer": "Neurotransmitters are packaged in vesicles called quanta. All synapses have the same number of release sites (N); one quantum generates a miniature end plate potential, which is the smallest amount of stimulation that one neuron can send to another neuron."
+    },
+    {
+        "guid": "458183ae-aef2-4798-b64d-b7de727c5300",
+        "model_answer": "Si (R_n(x)to 0) lorsque  (ntoinfty) admet un d\u00e9veloppement de Taylor autour d'(x_0)."
+    },
+    {
+        "guid": "cc24cdb8-3a06-4a93-9b94-aca69608ddb1",
+        "model_answer": "La normeassoci'ee est $| u|=sqrt( u, u)$ pour tous les vecteurs de l'espace euclidien. On note $(u| v)$ est frac14 left(|u+ v|2 - ||u- v'2right)$pour tous $ u."
+    },
+    {
+        "guid": "703e2827-6fe4-4f64-99ba-d81016d141ff",
+        "model_answer": "Vrai or faux?"
+    },
+    {
+        "guid": "e384b432-93ad-4770-9d13-74fc984cff31",
+        "model_answer": "The answer is cashflow positive point."
+    },
+    {
+        "guid": "de41310c-1119-420c-84f7-f391781a5f97",
+        "model_answer": "Le calcul de son entropie donne (Hsimeq1.811)."
+    },
+    {
+        "guid": "68e15f77-d5da-484b-ba19-659cc1bea2da",
+        "model_answer": "It is the star's magnetic field that ejects electrons."
+    },
+    {
+        "guid": "bee98e82-357d-4d86-8c63-2f4c36b56e3f",
+        "model_answer": "To organize daily Scrum meetings to discuss the progress of the tasks and how to implement complex features, one of the colleagues suggests that the team should organize daily Scrarum meetings. He also wants to discuss implementation of a feature that will allow users to scan a QR code to get a discount, and would like some input from the team. Therefore, the answer is 1."
+    },
+    {
+        "guid": "19a6f5aa-151f-4b61-9cc2-5b2872ce4e6f",
+        "model_answer": "The correct statement about genetic metaheuristic optimization algorithms is: The algorithms find the optimal parameter values over the whole possible parameter space. It generates sets of parameter values that are used to generate and evaluate the resulting neuronal phenotype. The algorithm generates a large number of random sets of parameters that are ranked according to goodness of fit, the best fitting one is selected as the final set."
+    },
+    {
+        "guid": "f61d34e0-d7a9-40f6-a9d1-02ca34b8dc3f",
+        "model_answer": "Smaller matrix size decreases contrast resolution. Therefore, the correct answer is Smaller voxel size."
+    },
+    {
+        "guid": "83ae18dc-a016-4f97-adc4-402ac56b1359",
+        "model_answer": "To understand how all elements of the brain interact with each other\u2019s. To predict what is the result of a change in some of the components composing the brain."
+    },
+    {
+        "guid": "d875b0d6-054c-42b3-848f-7d354a32eea6",
+        "model_answer": "A combination of chloride and calcium ions is a type of ion that supports the fast-early inward current. Sodium ions and Potassium ions are two types of ions that can be used to form a high-inward current, but they are not the same as ions."
+    },
+    {
+        "guid": "be73736f-6104-4dc5-b315-618c35f0e5f6",
+        "model_answer": "La d\u00e9riv\u00e9e est d\u00e9rivable en (x_0), dont le nombre de d\u00e9riv\u00e9es est bien d\u00e9fini."
+    },
+    {
+        "guid": "1718610f-8dd6-4625-a6fb-becaf0881858",
+        "model_answer": "The correct answer is Worsens chemical shift artifacts, which improves signal misregistration and destructive interference (phase cancellation)."
+    },
+    {
+        "guid": "8bd54ea2-2ebb-40d4-9450-7b14a8b06b8a",
+        "model_answer": "[mathjaxinline]D=fracm gammak_B T[/mathjxine]"
+    },
+    {
+        "guid": "70f8efa0-1816-445b-a053-cf92ee323bab",
+        "model_answer": "The natural frequency of precession and Larmor frequency are different names for the same frequency."
+    },
+    {
+        "guid": "e35d196d-d378-4134-9ac5-2e799a393890",
+        "model_answer": "La matrice associ'ee a laprojection orthogonale sur le plan (W) de mathbbR3 donn't par[ W = leftvecx=left.beginpmatrixx_1 x_2y_3endpmascatrix=0right,.]"
+    },
+    {
+        "guid": "edc67f0d-3970-4202-88be-01a9fdc54246",
+        "model_answer": "[mathjaxinline] sum_i=1N p_imu = 0  for all _ .]"
+    },
+    {
+        "guid": "3b7e8491-0a75-4620-9a08-5236121d55a3",
+        "model_answer": "The $boldsymbolmu_k$ converges to minimize the $leftz_n kright_k=1K$ in mathbbRD$ for $k=1, ldots, K$, and N$. The $K$-means algorithm is a converged algorithm that can be used to solve a number of problems in a given $k$. Therefore, the answer is 1."
+    },
+    {
+        "guid": "53d7b649-afab-48bd-a2b4-769df94b491c",
+        "model_answer": "1. The free induction decay of an NMR line with T2 = 0.5 s to decay to 1% of its initial amplitude is 2.30 s. 2.90 s is the correct answer."
+    },
+    {
+        "guid": "245c93a8-3253-4b95-aca5-6918cf5bd650",
+        "model_answer": "Le syst\u00e8me r\u00e9luctant polaris\u00e9 est un syst\u00e8me polaris\u00e9e. La force est proportionnelle au courant, la structure simple, la positionnement de la pi\u00e8ce mobile se fait sans alimentation."
+    },
+    {
+        "guid": "bfef8387-5cd3-4cb1-9fbe-ae87f876425a",
+        "model_answer": "A voltage clamp to force the two side of the membrane to have a fixes voltage difference"
+    },
+    {
+        "guid": "13739c83-35d1-4fec-867c-98bd69f9ae73",
+        "model_answer": "Because it is almost impossible to train a network with 10 layers without a supercomputer."
+    },
+    {
+        "guid": "64a34fa8-6bda-475f-b7da-b752ff1d1456",
+        "model_answer": "La loi d'Ohm g\u00e9n\u00e9ralis\u00e9e a propos de la r\u00e9sistance du fil multipli\u00e9 par le courant, plus la variation du flux totalis\u00e9."
+    },
+    {
+        "guid": "e88dde48-5fbb-46b6-855f-1b41da17322b",
+        "model_answer": "Humans are born with a more mature brain, thus parts of mouse postnatal development correspond to human embryonic development."
+    },
+    {
+        "guid": "c3842176-bc8b-4bba-8ad5-fb127d3282d8",
+        "model_answer": "(a) Logistic loss is typically preferred over $L_2$ loss (least squares loss) in classification tasks."
+    },
+    {
+        "guid": "d32e91ed-7eb4-44cd-be2b-2defaff5ce00",
+        "model_answer": "Each cell type has a fixed firing pattern that results from all individual cells of the same type having the same somatic and dendritic conductances. The correct answer is 1. The firing pattern of a cell is a specific firing behavior that occurs at certain levels in order to generate a defined firing pattern. Therefore, the correct answer for this question is 1. Somatic conductance is the process of generating a set of firing patterns in a cells. This process involves generating specific firing patterns, which can be used to generate the correct firing patterns. 2. The firing behavior of the cell depends on the type of cell that is involved in the firing process. 3. The firing patterns of the cells are different from those of the other cell types. This means that each cell type can have different firing behavior, which means that specific firing behaviors can be generated by different types of cells. 4. Specific firing patterns can be produced by different methods of firing, such as a fusion reactor, a nuclear reactor, or a chemical reactor. 5. Specific firing behavior can be created by a combination of different firing behaviors. This can be achieved by combining different firing patterns with different methods. This allows for a more accurate and accurate firing pattern, which allows for more accurate firing behavior. 6. Specific firing pattern can be obtained by using a different firing pattern and using different techniques. 7. Specific firing behaviors may be different depending on the cell type, but they can also be derived by using different methods and methods."
+    },
+    {
+        "guid": "24e3fd38-37a4-4934-b74d-dc666e8c60b8",
+        "model_answer": "GABAergic inhibition counteracts glutamatergic excitation in neuronal networks of the brain."
+    },
+    {
+        "guid": "056ea0f5-990e-45ec-9d81-60ec66ecf9a9",
+        "model_answer": "[mathjaxinline]fracpartial p(n Delta, k+1)]"
+    },
+    {
+        "guid": "2d9de929-7645-4192-8b90-8a7c253b162a",
+        "model_answer": "Genome sequencing can provide information on the potential genetic basis of diseases, including genetic mutations in the population, and the level of genetic diversity within a population."
+    },
+    {
+        "guid": "1d74cd2f-d3fc-4f0e-b3ec-b27225b9160e",
+        "model_answer": "In user mode, before and after a system call instruction(such as int 0x30), the stack pointer(esp in x86) stays the same."
+    },
+    {
+        "guid": "aa7e1cbf-f33f-4579-83d7-3bef5673a7ba",
+        "model_answer": "The minimum phonon number in the resolved sideband limit ((Omega_m  kappa)) is 1. The laser is pumped red detuned from the cavity resonance by the mechanical frequency. This means that the laser has a constant frequency of at least 1 Hz, which is equivalent to a frequency of approximately 0 Hz. This is because the laser is coupled to the cavity bath. The laser has an oscillator of approximately 1 MHz, which can be used to measure the distance between the laser and the laser. This allows the laser to reach the laser's wavelength, thereby reducing the frequency of the laser, resulting in a lower frequency of lasers."
+    },
+    {
+        "guid": "ee1a1937-ed58-499b-94ea-fe6fdd4717e2",
+        "model_answer": "La lettre d'induction magn\u00e9tique est la lettre qui symbolise le champ \u00e9lectrique et le d\u00e9placement \u00e9lectrique."
+    },
+    {
+        "guid": "4c07c694-88e7-48d8-b711-e8809a0c679d",
+        "model_answer": "The enzyme DNA polymerase emits different light signals when adding different nucleotides during DNA synthesis."
+    },
+    {
+        "guid": "76ce9513-bd2e-460e-a0b4-7a36819646d2",
+        "model_answer": "Pour tout entier (ngeq 1), il existe un irrationnel  (y) tel que =0lt |x-y|leq frac110n)."
+    },
+    {
+        "guid": "6303517c-ecc8-4deb-8785-550de1188bca",
+        "model_answer": "To classify traffic signs, we need to determine the correct sensor(s) for a traffic signal. This means that if a signal is detected by a sensor, it will be able to detect the signal. Therefore, the correct answer is Lidar, Thermal, RGB, and RGB."
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "guid": "94cdfd24-de94-4072-a5aa-a3a9dc953d2b",
+        "model_answer": "To find the coefficients impairs (resp. pairs) of (x_0=0): [ f(x)=a_0+a_1x +a_2x2+cdots + a_nx=n+xnepsilon(x), we need to find all coefficients d'indices."
+    },
+    {
+        "guid": "3826e1bd-05f7-4f80-a6ad-937af83dc3e4",
+        "model_answer": "To prove that the methods map and mapTr are equivalent, we need to prove the following lemma: (AccOut) l.mapTr(f, y :: ys) === xs (ConsAppend) Nil ++ xs == 0 ys = 0 for x in the left hand-side. The correct answer is (accOut)."
+    },
+    {
+        "guid": "f6f7e3a3-b63a-4f13-abbe-a2b3f74c64e5",
+        "model_answer": "Entanglement is necessary but not necessary for the violation of a Bell inequality."
+    },
+    {
+        "guid": "0b473eff-0fc8-4fb0-9d10-bc49d18e52e3",
+        "model_answer": "Pour calculer la d\u00e9rivation et int\u00e9gration de fonctions, nous pouvons utiliser l'exercice de calculer $F(x)$ pour : 1. f(x), rac-3x23f(cos(x, e2x3)44$. 2. x)=e1x3$. 3. x - e = sin(x). 4. x = e + e."
+    },
+    {
+        "guid": "6654c2b0-4dcd-432e-9c8e-26d638afe0ef",
+        "model_answer": "The worst case complexity of listing files in a directory is $O(1)$. The file system implements directories as hash-tables, which is a type of file system that can be used to store files in the directory. This is because the file system uses a large number of hash tables to store the files. Therefore, the correct answer is $(O(1))$."
+    },
+    {
+        "guid": "202f9e3f-be4d-4b51-8789-f4eb0666690f",
+        "model_answer": "To prevent numerical instabilities, we need to reduce learning rate, add a regularization term, and remove degenerate features. This means that we can reduce the learning rate by adding a constantization term to reduce the number of errors that occur during linear regression."
+    },
+    {
+        "guid": "198d8637-b6eb-4a3a-92c0-6baad4f34a2e",
+        "model_answer": "The first file representing the muche is a file containing the tables of the files that they contain. The second file represents the most important information in the file, and the third file represents a lot of information."
+    },
+    {
+        "guid": "da3590dc-4da0-4790-bd94-b9e56450702b",
+        "model_answer": "Si (fin C1(I)), alors il n'existe pas \u00e0 la d\u00e9rivabilit\u00e9 de l'I o\u00f9  (f) est deux fois d\u00e9rivable."
+    },
+    {
+        "guid": "299255b4-6b4b-423b-bafa-e1f2ca04ecb5",
+        "model_answer": "Subsequent URLs in an adjacency list have typically small differences, and Typically many URLs among two pages with similar URL are similar."
+    },
+    {
+        "guid": "92251192-94ec-4d07-a94c-34775db00d70",
+        "model_answer": "The variance of the random variable $wv op xx$ over the randomness of $x$ is emphmaximal. Therefore, the probability of finding a random vector distributed according to the uniform distribution over the finite centered dataset $Xv_1,.., xv_N$ is the probability that the random vector is distributed by a unit vector, which is a vector that can be distributed in a uniform manner. The probability that $Wv in RD$ has a probability that it is distributed in the uniform manner, which means that the vector's random variable is distributed as a discrete vector. This is because the vector is based on the distribution of the vector, and the random variables are distributed by the unit vector."
+    },
+    {
+        "guid": "b82db1db-a6f9-4e3a-8d45-9a89cfddd953",
+        "model_answer": "The gradient is very large so the model can't converge. Training is fine, but our neural net does only as well as a linear model."
+    },
+    {
+        "guid": "e07a6c79-461a-40f2-b8a8-402f92e38839",
+        "model_answer": "To find the polarization state of a $alpha$-degree linearly polarized input beam that is passing through a HWP, we need to use a jones vector representation. This representation is based on the fact that a wave plate is a birefringent material with a thickness of $(d)$ and a phase of $efrac2 pilambda d n_x$ for $E_y$ field while the extraordinary axis generates the phase difference for $e_i2$ and $i$ respectively. Therefore, we can use the elliptical vector representation to find the density of the wave plate."
+    },
+    {
+        "guid": "1f0c9830-5cb9-44ef-865a-1681b7cae654",
+        "model_answer": "Les \u00e9lectrons poss\u00e8de un degr\u00e9 de libert\u00e9 quantique qui s'appelle la spin. Le spin est analogue \u00e0 un aimant microscopique avec un p\u00f4le nord et un s\u00e9quence sud. La composante de spin $ecS$ de chaque electron selon un axe donn\u00e9 (par ex. $S_z$ selon $z$) ne peut prendre que 2 valeurs: 1. S_z=+1$ (vers le haut) ou 2. S_Z=-1$ (vert le bas) Lorsque plus de spins pointent dans une direction plut\u00f4t qu'une autre, the spin total (somme des spins individuels) is non nul and il existe une magn\u00e9tisation du mat\u00e9riau (c'est une aimant au sens commun du terme). Nous voulons \u00e9tudier la physique statistique d'un ensemble de 50 electrons, ayant chacun leur spin pouvant pointer vers le haut ou vers le bas. This exercise is particularly int\u00e9ressant \u00e0 faire chez vous avec a ordinateur (par exemple with Python) ou a calculatrice graphique, for applications num\u00e9riques. Combien existent-ils de stabilit\u00e9 microskopiques?"
+    },
+    {
+        "guid": "8dca0280-913e-469b-a9b0-e0edea7fc589",
+        "model_answer": "The word \"time\" would be stored by the Viterbi algorithm in the node associated to V for the word 'time'."
+    },
+    {
+        "guid": "e82b5b83-63be-4052-8b90-856964aa898b",
+        "model_answer": "La d\u00e9riv\u00e9e \u00e0 droite est (f'_+(a)=ell)."
+    },
+    {
+        "guid": "fb202e2b-e599-44d7-b4ff-3fec50e91311",
+        "model_answer": "The mean squared error of $f$ for a sample, where $textbfx$ is an input, $y$ a target, and $f(textbex,W)$ the mapping function is $-log(P(y=i | textbrax)) = -path(fracetextBff_i()sum_j e=textbefF_j())$."
+    },
+    {
+        "guid": "7690f1a8-df38-4e65-a667-09f0877fb255",
+        "model_answer": "To find the memory address where a particular instruction was fetched (i.e., the value of the PC at the time of fetching) inside the reorder buffer, we need to determine the correct memory address. Therefore, the answer is yes."
+    },
+    {
+        "guid": "a442d457-38a3-4ec4-898f-89cbbf5db372",
+        "model_answer": "[ sum_ngeq 3 frac1n(ln(n))mu] begincases textconverge &text si m>1,  a end case 2."
+    },
+    {
+        "guid": "bfb2e9ae-9035-40ee-8406-b95519d675ac",
+        "model_answer": "L'acc\u00e9l\u00e9rateur de particules LHC du CERN g\u00e9n\u00e8re 1 Po/s (= 10(15) octets/s), soit l'\u00e9quivalent de 12 ans de vid\u00e9o en HD par seconde! Il n'a pas pas \u00e0 construire une connexion assez rapide pour y enregistrer tous ces donn\u00e9es en temps r\u00e9el sans perdre. Une batterie de circuits logiques (hardware) analysed these data in temps r\u00e9el et filtred by a facteur de 1000 avant de injecterdirectement dans m\u00e9moires centrales d'une battery de processeurs sp\u00e9cialis\u00e9s qui r\u00e9duisent encore par un facteur duordre de 1000. En arrondissant les ordres de grandeur, combien de disques \u00e0 100 Mo/s en parall\u00e8le sont n\u00e9cessaires pour une d\u00e9bit de 1 Go/s."
+    },
+    {
+        "guid": "6fab6a7c-f678-401b-965d-4b1b7e514852",
+        "model_answer": "The worst case complexity of listing the contents of the directory is $O(1)$. The file system implements directories as linked-lists, which is a type of file system that can be used to organize the files in a directory. This is because the file system uses directories to organize files in the directory. Therefore, the correct answer is $(O(1))$."
+    },
+    {
+        "guid": "841d52c7-5353-424c-a1f4-8ebf473ecc6d",
+        "model_answer": "To solve the problem using the minibatch Stochastic Gradient Descent (SGD) with a batch size $B$ and a constant step-size $alpha=frac1L$, we need to solve the update rule for SGD. We can use the pre-processing function $mathbfx sum_i=1n f_i(mahbbRp f(massbrn)$, which is $L$-smooth and convex. Therefore, we can solve the optimization problem using SGD using a Batch size $A$ and the constant stepsize $A_a_b_l$."
+    },
+    {
+        "guid": "f72cf01b-8f66-4e8f-a3b9-3bfb27f562d7",
+        "model_answer": "The maximum value of the optimization problem in Eq.(AMCrefeq:opt_adv_regression) is $(5+9arepsilon)2$."
+    },
+    {
+        "guid": "60c20157-95f6-4cf5-b71c-29ce9d194200",
+        "model_answer": "The function that takes as input the data matrix X and the labels y, returns the coefficient and the bias of linear regression predictor using the closed-form solution."
+    },
+    {
+        "guid": "3538e748-434d-4ed8-adc3-e9bda94c46c9",
+        "model_answer": "Si il existe deux sous-suites ((a_n_k)_k) et ((b_in_k_), telles qu'(0leq a_n) for tout k (k), alors sum_na_in convergent aussi."
+    },
+    {
+        "guid": "426d5d69-1a8d-4aca-b6f3-71b5a9af11ab",
+        "model_answer": "A. case _ => if (rank(lh) >= rank(rh) Node(rank(h) + 1, x, rh, lh), 0 = h match - case Empty() => 1 case Yesde(r, v, h1, h2) => 2 def insert(x: Int, x: Heap) = merge(h, Node(0) + 1 - h) - def findMin(h:Heap), h = 0 for a leftist min heap, which satisfies the properties P.1 but not the property P.2 and then the leftist heap from Figure 3. To merge the two heaps, we first obtain the min heap from the heap h1 and h2 def merge(x1, lH), rH, e. case (Node(_, a, b, c, d, f, g, i, j, k, m, n, p, q, w, y, z, u, s, t, and j) => 3 def solve(x): x = x + y + z + j + x  h + k + q + w + g + i + m + r + c + d + b + f + u + v + n + p + h"
+    },
+    {
+        "guid": "30afbb49-8450-43c9-bb4d-ffd127127497",
+        "model_answer": "(logbig(1+dfrac23sqrt2))"
+    },
+    {
+        "guid": "7c17680c-400d-4adf-96cb-7af4b14ff562",
+        "model_answer": "Pour calculer l'int\u00e9gralit\u00e9 ( int_0pi1/33sin(x33)),cos(33),x32,dx:."
+    },
+    {
+        "guid": "d9b30a74-5f67-4c4a-9a83-e9bfd09bc47d",
+        "model_answer": "If (Asubset bR) n'est pas ouvert, then the option is ferm\u00e9."
+    },
+    {
+        "guid": "99de7be3-24e6-45b7-9ef3-a9f1bd649c8a",
+        "model_answer": "To find the jones vector representation of the output beam if it is passing through a QWP/HWP, we need to determine the polarization state of a wave plate. The polarized input beam is $fracpi4$ and $p2$, respectively. Therefore, the phase difference for quarter wave plates (QWP) and half wave plates is $$frac$."
+    },
+    {
+        "guid": "f2ccb67e-6051-4111-8434-0209cad56ee3",
+        "model_answer": "To determine the property(ies) of a NLP task, we need to determine the properties of the task. The property(i) must satisfy a property(y) in order to be evaluable through accuracy."
+    },
+    {
+        "guid": "04ca849b-3186-4abc-b865-c512d9119e0a",
+        "model_answer": "To list two common types of exceptions that must be implemented precisely, we need to identify two common exceptions. First, let's assume that the exceptions are the same as the other exceptions, and then add them to the list. Then, we can use the following exceptions to find the correct exceptions for each exception. The second exception is the exception to the exception, and the third exception is a separate exception. This is because the exception is not a single exception. Therefore, the first exception is only one exception."
+    },
+    {
+        "guid": "36d8f75e-6249-4cab-9e1e-69571358b0ad",
+        "model_answer": "To build a convolutional neural network f that detects edges in1D inputs, we need to use a single filter of size 2, a=(a_1, a_2)."
+    },
+    {
+        "guid": "e1a1b845-bc57-4250-a715-6b7bf2f3e192",
+        "model_answer": "The edge betweenness for edge (7-5) in the following graph is 7-5. The choice is 12.5, which means that the edges of the graph are equal to the distance between them. Therefore, the answer is 7.5."
+    },
+    {
+        "guid": "7a2855e0-5c47-4622-b025-4dfa11353f41",
+        "model_answer": "$h_1$ is a conc-tree with a height of $h$."
+    },
+    {
+        "guid": "f24af540-a417-4810-b572-c6a816fd36d8",
+        "model_answer": "In this problem, Ueli von Gruyeres is asked to design an estimator that asks at most $3000 log(1/delta)/epsilon2$ persons and (ii) explain why it satisfies the guarantee."
+    },
+    {
+        "guid": "aac16eb3-0584-4b0d-bee5-311565c0b0d7",
+        "model_answer": "(e-a_nto 0)"
+    },
+    {
+        "guid": "c304254e-8c84-4179-a6a8-a78b3bdd633d",
+        "model_answer": "Supervised regression, prediction, and classification are all tools used to identify the language of a sentence."
+    },
+    {
+        "guid": "6f0d7868-be35-4f47-8770-22999fe667a9",
+        "model_answer": "To solve this problem, we need to solve the problem using a simple algorithm."
+    },
+    {
+        "guid": "32cb1531-16d4-4bd0-871d-09c05f083d33",
+        "model_answer": "The float of a fishing rod floats at the surface of water. This float is a cylindrical shape with a radius $r$, a height $h$ and with an homogeneous mass. It moves from top to bottom while always staying partially submerged. In addition to its weight, it is subject to the Archimedian buoyancy $ecP_A$ and at a viscous friction force $\u00e9cF = -ketaEcv$. The volumic mass of the float has a value equal to two thirds of the one of water : $ ho_f= rac23 ho_eau$, and the damping coefficient $lambda$ as function of the problem data."
+    },
+    {
+        "guid": "215d2a69-d6c0-4aca-bf47-70eb2091c3fe",
+        "model_answer": "The Prime+Probe cache attack is a cache attack that is used to store data in a database. This cache attack can be used to retrieve information about the victim code, such as the password, password, and password. The attacker can use this information to identify the attacker's identity. This information is typically revealed to the attacker by using a search engine."
+    },
+    {
+        "guid": "19799141-5b4f-4239-bc50-dd5c1c14a3e9",
+        "model_answer": "Pour d\u00e9terminer les matrices suivantes, il y a left(beginarrayccc2 & 4 & 3-4 & -6 &-33 & 3, 3 & 1endarrangeright), quadC = len(babc4 & 5 & 20 & 0, 01 & 4, -10-1 & 2, -21, -2 & 1, -32, -43, -52, 52, 42, 22, 32, 122). [A]  [B]"
+    },
+    {
+        "guid": "f3ca44ac-51a9-4ff7-aec4-7b7d76f4837f",
+        "model_answer": "The difficulties in measuring the response of a cell in order to calculate its transfer function in absence of an analytical template are: Eliminating noise from the measurement; Obtaining responses to enough different stimuli from a single cell; Maintaining the cell alive for a sufficient amount of time;"
+    },
+    {
+        "guid": "a559e3e1-2520-4d95-9cc1-7cce4798fea3",
+        "model_answer": "Lengthy data acquisition"
+    },
+    {
+        "guid": "52f78310-1458-4ad2-9605-e99a10e73550",
+        "model_answer": "The advantages of scoring procedures such as the one proposed by Druckmann et al. (2007) have over simple least square distance based procedures. They account for variability in the experimental data and penalize the model according to experimental variability. They can focus on reproduction of some features rather than perfect reproduction of the experimental dataset. They do not sum the features."
+    },
+    {
+        "guid": "70f8efa0-1816-445b-a053-cf92ee323bab",
+        "model_answer": "The natural frequency of precession and Larmor frequency are different names for the same frequency."
+    },
+    {
+        "guid": "98df46d4-9b69-4702-8e58-6e4c2fedc94e",
+        "model_answer": "Pour chacune des systemes suivantes, nous pouvons utiliser la solution g'en'erale pour d\u00e9terminer les variables de base et les variables libres."
+    },
+    {
+        "guid": "59c0251a-f677-46d1-aff0-a5435e62230c",
+        "model_answer": "[a]item La matrice d'une forme quadratique est sym\u00e9trique. Les vecteurs propres de $A$ sont tous strictement positives, alors la forme quadrantique $XTAx$ est d\u00e9finie positive. endenumerate"
+    },
+    {
+        "guid": "13739c83-35d1-4fec-867c-98bd69f9ae73",
+        "model_answer": "Because it is almost impossible to train a network with 10 layers without a supercomputer."
+    },
+    {
+        "guid": "dc243fc6-5295-426f-ace7-c1594dcb4d59",
+        "model_answer": "Genetic knockouts and Patch-clamp are commonly used to study gene regulatory networks. Computational modeling is a technique used in gene regulation networks to study the role of genes in the regulation of gene regulation. Genetic Knockouts are a method used in genetic testing to study genes in a gene regulatory network."
+    },
+    {
+        "guid": "2f7b092b-e05b-4b04-a99c-b9963f8e3032",
+        "model_answer": "[mathjaxinline]leftlangle ei phileft(t_1right)-ipit t+iphi(t)]"
+    },
+    {
+        "guid": "23ffa81e-c9d4-4c01-87ef-d88bb108587b",
+        "model_answer": "The correct statement about cable theory is that the conductance for each ion stays the same all along the axon and dendrites. The change in voltage over the distance is related to the change of voltage over time."
+    },
+    {
+        "guid": "2fabe332-48ef-433b-9b1c-b4e486180637",
+        "model_answer": "The smallest value we can achieve for $|mathbfX-hatmafx|_F2$ is $N-D-1$. Therefore, the smallest possible value is $n-D+1$."
+    },
+    {
+        "guid": "1986353f-b780-4b31-94d6-fd9af077fb07",
+        "model_answer": "Genetic characteristics vary between cell types, but genetic characteristics do not. Differences in epigenetics do not influence gene expression whereas genetic variability does."
+    },
+    {
+        "guid": "b1ea7aed-566b-4da0-803d-f29fc4cf50e1",
+        "model_answer": "Pour tout matrice inversible (P) de taille $ntimes n, lambda est une valeur propre de $A, si et seulement si $P-1AP est un valeur propre."
+    },
+    {
+        "guid": "d563f81d-6eef-4e06-b40c-e00352d5aa78",
+        "model_answer": "Ainsi, les op'erations 'el'ementaires sur les lignes dites \"valides\" (\u00e0 savoir, l'ajout d'une ligne \u00e0 une autre, le\u00e9change de deux lignes, et la multipliplication de chaque ligne par un r\u00e9el non nul) transforment une systemelin'elleaire en un sisteleme."
+    },
+    {
+        "guid": "c1bc4cc6-e6af-4bb6-86c2-1dee8ec49ad2",
+        "model_answer": "On the u-nullcline, arrows point always vertically upward, and on the horizontal u,w coordinate system, they point always to the left."
+    },
+    {
+        "guid": "f732d470-1631-4a0d-b1f6-51e937cf55be",
+        "model_answer": "( dW_mag = int_0B H*dB*dV )."
+    },
+    {
+        "guid": "88379c2b-4bda-41c0-b1c1-e44dc19ea14b",
+        "model_answer": "In Cl plasma etching, a corrosion phenomenon occurs under the form of chlorine-containing residues remaining on the film sidewalls. Therefore, the correct approach is to avoid this problem."
+    },
+    {
+        "guid": "ec128ef4-97e2-4998-a41c-e6eab0953c8c",
+        "model_answer": "The \"Consensus-Based Total-Order Broadcast\" algorithm transforms a consensus abstraction into a total-order broadcast abstraction. This transformation is a result of a combination of the two primitives in the other direction, which is to implement a (uniform) consensus abstraction."
+    },
+    {
+        "guid": "2b3de139-3757-4f15-9b48-e785fd51c3f4",
+        "model_answer": "The main difference between PET and SPECT is that PET scan begins with the administration of a radiopharmaceutical, and PET scan requires a longer time for data collection."
+    },
+    {
+        "guid": "19799141-5b4f-4239-bc50-dd5c1c14a3e9",
+        "model_answer": "Pour d\u00e9terminer les matrices suivantes, il y a left(beginarrayccc2 & 4 & 3-4 & -6 &-33 & 3, 3 & 1endarrangeright), quadC = len(babc4 & 5 & 20 & 0, 01 & 4, -10-1 & 2, -21, -2 & 1, -32, -43, -52, 52, 42, 22, 32, 122). [A]  [B]"
+    },
+    {
+        "guid": "45f4f919-77fb-4bbc-92f6-172fec8f4a92",
+        "model_answer": "The answer to the question is: Yes. The answer is yes."
+    },
+    {
+        "guid": "f1d23839-38a5-46f6-946d-c0a11cc6c4e8",
+        "model_answer": "The tissue contrast in MRI is obtained with differences in the Gyromagnetic ratio, Spin-spin and spin-lattice relaxation constants, and carbon and nitrogen abundance."
+    },
+    {
+        "guid": "d12be254-279f-4223-852c-9bb0791bb816",
+        "model_answer": "(108.2 cdot 106) m"
+    },
+    {
+        "guid": "6a7100d1-64e2-426d-b762-62bafa8b9d55",
+        "model_answer": "The process of releasing neurotransmitters (2) is a process that involves releasing neurons in vesicles called quanta, which is the smallest amount of stimulation that one neuron can send to another neuron. This process is characterized by a number of release sites (N) and a miniature end plate potential, which generates a mini-end plate potential."
+    },
+    {
+        "guid": "458183ae-aef2-4798-b64d-b7de727c5300",
+        "model_answer": "Pour d\u00e9terminer si (x_0in bR) est un polyn\u00f4me d'ordre de l'ordre, il n'y a pas \u00e9tabli pas \u00e0 0, et il est en mesure de admet un d\u00e9veloppement de Taylor."
+    },
+    {
+        "guid": "cc24cdb8-3a06-4a93-9b94-aca69608ddb1",
+        "model_answer": "La normeassoci'ee est $| u|=sqrt( u, u)$ pour tous les vecteurs de l'espace euclidien. On note $(u| v)$ est frac14 left(|u+ v|2 - ||u- v'2right)$pour tous $ u."
+    },
+    {
+        "guid": "703e2827-6fe4-4f64-99ba-d81016d141ff",
+        "model_answer": "Vrai or faux?"
+    },
+    {
+        "guid": "e384b432-93ad-4770-9d13-74fc984cff31",
+        "model_answer": "The answer to the question is cashflow positive point. The venture starts to bring in money at the beginning of the year, which means that the company will start to generate more money. Therefore, the answer is profit point."
+    },
+    {
+        "guid": "de41310c-1119-420c-84f7-f391781a5f97",
+        "model_answer": "(Hsimeq1.811)."
+    },
+    {
+        "guid": "68e15f77-d5da-484b-ba19-659cc1bea2da",
+        "model_answer": "It is the star's magnetic field that ejects electrons."
+    },
+    {
+        "guid": "bee98e82-357d-4d86-8c63-2f4c36b56e3f",
+        "model_answer": "To discuss the implementation of a feature that will allow users to scan a QR code to get a discount, the team should organize daily Scrum meetings to discuss the progress of the tasks and how to implement complex features. The answer is that the team would like to discuss how to use the feature."
+    },
+    {
+        "guid": "19a6f5aa-151f-4b61-9cc2-5b2872ce4e6f",
+        "model_answer": "The correct statement about genetic metaheuristic optimization algorithms is that the algorithms find the optimal parameter values over the whole possible parameter space. It generates a large number of random sets of parameter values that are ranked according to goodness of fit, the best fitting one is selected as the final set."
+    },
+    {
+        "guid": "f61d34e0-d7a9-40f6-a9d1-02ca34b8dc3f",
+        "model_answer": "Smaller matrix size and smaller voxel size decrease contrast resolution. Therefore, the correct answer is Smaller field of view."
+    },
+    {
+        "guid": "83ae18dc-a016-4f97-adc4-402ac56b1359",
+        "model_answer": "To understand how all elements of the brain interact with each other\u2019s. To predict what is the result of a change in some of the components composing the brain."
+    },
+    {
+        "guid": "d875b0d6-054c-42b3-848f-7d354a32eea6",
+        "model_answer": "A combination of chloride and calcium ions is a type of ion that supports the fast-early inward current. Sodium ions and Potassium ions are two types of ions that can be used to form a high-inward current, but they are not the same as ions."
+    },
+    {
+        "guid": "be73736f-6104-4dc5-b315-618c35f0e5f6",
+        "model_answer": "La d\u00e9riv\u00e9e est d\u00e9rivable en (x_0), o\u00f9 le nombre de d\u00e9riv\u00e9es est not\u00e9e \u00e0 l'\u00e9quation de f'(x)."
+    },
+    {
+        "guid": "1718610f-8dd6-4625-a6fb-becaf0881858",
+        "model_answer": "The correct answer to the question is: Worsens chemical shift artifacts: Improves signal misregistration but not destructive interference (phase cancelation) is created by an increased bandwidth. This is due to the increase in bandwidth, which is a factor that affects the efficiency of the process."
+    },
+    {
+        "guid": "8bd54ea2-2ebb-40d4-9450-7b14a8b06b8a",
+        "model_answer": "[mathjaxinline]D=fracm gammak_B T[/mathjxine]"
+    },
+    {
+        "guid": "70f8efa0-1816-445b-a053-cf92ee323bab",
+        "model_answer": "The natural frequency of precession and Larmor frequency are different names for the same frequency."
+    },
+    {
+        "guid": "e35d196d-d378-4134-9ac5-2e799a393890",
+        "model_answer": "Pour calculer la matrice associ'ee a la projection orthogonale sur le plan (W) des mathbbR3, il n'y a pas \u00e0 l'\u00e9quation d'un leftvecx=left. beginpmatrixx_1 x_2y_3endpitrix_right| 2x_1,x_2,=0right,.]"
+    },
+    {
+        "guid": "edc67f0d-3970-4202-88be-01a9fdc54246",
+        "model_answer": "[mathjaxinline] sum_i=1N p_imu = 0  forall _mu[/mathjj] The correct answer is: The patterns are balanced: The mean of each pixel across patterns is zero. All pixels of all patterns are equal to zero. The other half only negative pixels are positive."
+    },
+    {
+        "guid": "3b7e8491-0a75-4620-9a08-5236121d55a3",
+        "model_answer": "To calculate the closed-form formula for the $boldsymbolmu_k$, we need to calculate the converged function of the $K$-means algorithm. The answer is left-form."
+    },
+    {
+        "guid": "53d7b649-afab-48bd-a2b4-769df94b491c",
+        "model_answer": "1. The free induction decay of an NMR line with T2 = 0.5 s to decay to 1% of its initial amplitude is 2.30 s. 2.90 s is the correct answer."
+    },
+    {
+        "guid": "245c93a8-3253-4b95-aca5-6918cf5bd650",
+        "model_answer": "The question asks about the advantages of a polarized system. The answer is: The force is proportionnelle au courant, the structure simple, and the positionnement de la pi\u00e8ce mobile se fait sans alimentation."
+    },
+    {
+        "guid": "bfef8387-5cd3-4cb1-9fbe-ae87f876425a",
+        "model_answer": "A voltage clamp to force the two side of the membrane to have a fixes voltage difference"
+    },
+    {
+        "guid": "13739c83-35d1-4fec-867c-98bd69f9ae73",
+        "model_answer": "Because it is almost impossible to train a network with 10 layers without a supercomputer."
+    },
+    {
+        "guid": "64a34fa8-6bda-475f-b7da-b752ff1d1456",
+        "model_answer": "La loi d'Ohm g\u00e9n\u00e9ralis\u00e9e est \u00e9gale \u00e0 la r\u00e9sistance du fil multipli\u00e9 par le courant, plus la variation du flux totalis\u00e9."
+    },
+    {
+        "guid": "e88dde48-5fbb-46b6-855f-1b41da17322b",
+        "model_answer": "Humans are born with a more mature brain, thus parts of mouse postnatal development correspond to human embryonic development."
+    },
+    {
+        "guid": "c3842176-bc8b-4bba-8ad5-fb127d3282d8",
+        "model_answer": "(a) Logistic loss is typically preferred over $L_2$ loss (least squares loss) in classification tasks."
+    },
+    {
+        "guid": "d32e91ed-7eb4-44cd-be2b-2defaff5ce00",
+        "model_answer": "The correct answer is 1. Somatic and dendritic conductances are related to the firing pattern of a cell. This is because each cell type has a fixed firing pattern that results from all individual cells of the same type having the same somatic and Dendrite conductance. This means that each combination of conductance generates a different firing behavior. Therefore, the correct answer to the question is 1. Therefore, a specific firing pattern must be at certain levels in order to generate a defined firing pattern."
+    },
+    {
+        "guid": "24e3fd38-37a4-4934-b74d-dc666e8c60b8",
+        "model_answer": "GABAergic inhibition counteracts glutamatergic excitation in neuronal networks of the brain."
+    },
+    {
+        "guid": "056ea0f5-990e-45ec-9d81-60ec66ecf9a9",
+        "model_answer": "[mathjaxinline]fracpartial p(n Delta, k+1)]"
+    },
+    {
+        "guid": "2d9de929-7645-4192-8b90-8a7c253b162a",
+        "model_answer": "Genome sequencing can provide information on the potential genetic basis of diseases, including genetic mutations in the population, and the level of genetic diversity within a population."
+    },
+    {
+        "guid": "1d74cd2f-d3fc-4f0e-b3ec-b27225b9160e",
+        "model_answer": "In user mode, before and after a system call instruction(such as int 0x30), the stack pointer(esp in x86) stays the same."
+    },
+    {
+        "guid": "aa7e1cbf-f33f-4579-83d7-3bef5673a7ba",
+        "model_answer": "The minimum phonon number in the resolved sideband limit ((Omega_m  kappa)) is  (bigg(dfrackma4omegamega)2). This means that the laser is pumped red detuned from the cavity resonance by the mechanical frequency. Therefore, the solution to the solution is: ((Dfracma3)1) = 2 - 3 - 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 20 - 18 - 21 - 22 - 23 - 24 - 26 - 25 - 27 - 28 - 29 - 31 - 30 - 32 - 33 - 34 - 35 - 36 - 45 - 37 - 38 - 39 - 42 - 40 - 41 - 44 - 46 - 48 - 52 - 54 - 55 - 51 - 53 - 56 - 50 - 65 - 60 - 64 - 49 - 43 - 47 - 72 - 70 - 75 - 80 - 90 - 85 - 100 - 110 - 130 - 120 - 140 - 150 - 160 - 300 - 200 - 250 - 400 - 500 - 600 - 1000 - 700 - 800 - 180 - 350 - 2000 - 1500 - 1, 0 - 0, 0"
+    },
+    {
+        "guid": "ee1a1937-ed58-499b-94ea-fe6fdd4717e2",
+        "model_answer": "La lettre d'induction magn\u00e9tique est la lettre qui symbolise le champ \u00e9lectrique et le d\u00e9placement \u00e9lectrique."
+    },
+    {
+        "guid": "4c07c694-88e7-48d8-b711-e8809a0c679d",
+        "model_answer": "The enzyme DNA polymerase emits different light signals when adding different nucleotides during DNA synthesis."
+    },
+    {
+        "guid": "76ce9513-bd2e-460e-a0b4-7a36819646d2",
+        "model_answer": "Pour tout entier (ngeq 1), il existe une infinit\u00e9 de rationnels \u00e0 l'\u00e9quation de r(y) tels que l(0lt |x-y|leq frac110n)."
+    },
+    {
+        "guid": "6303517c-ecc8-4deb-8785-550de1188bca",
+        "model_answer": "To classify traffic signs, we need to determine the correct sensor(s) for a traffic signal. This means that if a signal is detected by a thermal sensor, it will be able to detect the signal. Therefore, the correct answer is Lidar, Thermal, RGB, and RGB."
+    }
+]

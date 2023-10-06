@@ -1,0 +1,402 @@
+[
+    {
+        "guid": "94cdfd24-de94-4072-a5aa-a3a9dc953d2b",
+        "model_answer": "It (f) a paire (resp. impaire) having a (DL(n)) around (x_0=0): [ f(x)=a_0+a_1x+a_2x2+cdots+a_nxn+xnepsilon(x),. ] Montrer que tous les coefficients d'indices impairs (resp. pairs) sont nuls."
+    },
+    {
+        "guid": "3826e1bd-05f7-4f80-a6ad-937af83dc3e4",
+        "model_answer": "mapTr == xs.mapTr(f, ys) == ys.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f, ys) == xs.mapTr(f,"
+    },
+    {
+        "guid": "f6f7e3a3-b63a-4f13-abbe-a2b3f74c64e5",
+        "model_answer": "Entanglement is sufficient but not sufficient for the violation of a Bell inequality"
+    },
+    {
+        "guid": "0b473eff-0fc8-4fb0-9d10-bc49d18e52e3",
+        "model_answer": "This is a brief maths recap, it should serve as \"detector de fum\u00e9e\" - atypically the level of difficult that we will meet regarding derivation and integration of functions. Calculate F(x)$, primitive of $f(x)$ for: 1. f(x)=cos(x) 2. f(x)=rac-3x2 3. f(x)=e2x 4. f(x)=sin(x) cos(x)"
+    },
+    {
+        "guid": "6654c2b0-4dcd-432e-9c8e-26d638afe0ef",
+        "model_answer": "$O(1)$"
+    },
+    {
+        "guid": "202f9e3f-be4d-4b51-8789-f4eb0666690f",
+        "model_answer": "remove degenerate features"
+    },
+    {
+        "guid": "198d8637-b6eb-4a3a-92c0-6baad4f34a2e",
+        "model_answer": "En supposant que le fichier racine (/) est un fichier contenant les tables de ses fichiers et r\u00e9pertoires, dont celle du r\u00e9pertoire home ; \u2014 le r\u00e9pertoire home est un fichier contenant les tables de ses fichiers et r\u00e9pertoires, dont celle du r\u00e9pertoire muche ; \u2014 ... \u2014 le r\u00e9pertoire Musique est un fichier contenant les tables de ses fichiers et r\u00e9pertoires, dont celle du r\u00e9pertoire muche ; \u2014 ... \u2014 le r\u00e9pertoire Musique est un fichier contenant les tables de ses fichiers et r\u00e9pertoires, dont celle du r\u00e9pertoire muche ;"
+    },
+    {
+        "guid": "da3590dc-4da0-4790-bd94-b9e56450702b",
+        "model_answer": "Si (fin C1(I)), alors il n'existe aucun (x_0in I) o\u00f9 (f) est deux fois d\u00e9rivable."
+    },
+    {
+        "guid": "299255b4-6b4b-423b-bafa-e1f2ca04ecb5",
+        "model_answer": "Often many URLs among two pages with similar URL are similar"
+    },
+    {
+        "guid": "92251192-94ec-4d07-a94c-34775db00d70",
+        "model_answer": "maximal"
+    },
+    {
+        "guid": "b82db1db-a6f9-4e3a-8d45-9a89cfddd953",
+        "model_answer": "Training is fine, but our neural net does only as well as a linear model"
+    },
+    {
+        "guid": "e07a6c79-461a-40f2-b8a8-402f92e38839",
+        "model_answer": "d = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e = (d*(d)) e ="
+    },
+    {
+        "guid": "1f0c9830-5cb9-44ef-865a-1681b7cae654",
+        "model_answer": "a north and a south"
+    },
+    {
+        "guid": "8dca0280-913e-469b-a9b0-e0edea7fc589",
+        "model_answer": "time"
+    },
+    {
+        "guid": "e82b5b83-63be-4052-8b90-856964aa898b",
+        "model_answer": "item Si (f'(x)geq 0) pour tout (xin:]a,b[,), alors (f) est croissante sur ([a,b]). item Si (f) est croissante sur ([a,b]), alors (f'(x)geq 0) pour tout (xin:]a,b[,). item Si (f) est strictement croissante sur ([a,b]), alors (f'(x)> 0) pour tout (xin:]a,b[,). item Si (f'(x)> 0) pour tout (xin:]a,b[,), alors (f) est strictement croissante sur ([a,b]). item Si (limlimits_xto a+f'(x)=ell) existe, alors (f) est d\u00e9rivable \u00e0 droite en (a) et la d\u00e9riv\u00e9e \u00e0 droite est (f'_+(a)=ell). endenumerate"
+    },
+    {
+        "guid": "fb202e2b-e599-44d7-b4ff-3fec50e91311",
+        "model_answer": "-log(P(y=i | textbfx)) = -log(fracetextbff_i(textbfx,W)sum_j etextbff_j(textbfx,W))$; -log(P(y=i | textbfx)) = -log(fracetextbff_i(textbfx,W)sum_j etextbff_j(textbfx,W))$;"
+    },
+    {
+        "guid": "7690f1a8-df38-4e65-a667-09f0877fb255",
+        "model_answer": "The address of the memory address where a particular instruction was fetched is not in the reorder buffer."
+    },
+    {
+        "guid": "a442d457-38a3-4ec4-898f-89cbbf5db372",
+        "model_answer": "sum_ngeq 3 frac1n(ln(n))mu begincases textconverge&text si mu>1, textdiverge&text si mu>1, endcases ]"
+    },
+    {
+        "guid": "bfb2e9ae-9035-40ee-8406-b95519d675ac",
+        "model_answer": "l\u2019acc\u00e9l\u00e9rateur de particules LHC de CERN g\u00e9n\u00e8re 1 Po/s (= 10(15) octets/s), soit l\u2019\u00e9quivalent de 12 ans de vid\u00e9o en HD par seconde!"
+    },
+    {
+        "guid": "6fab6a7c-f678-401b-965d-4b1b7e514852",
+        "model_answer": "$O(1)$"
+    },
+    {
+        "guid": "841d52c7-5353-424c-a1f4-8ebf473ecc6d",
+        "model_answer": "The update rule for SGD is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is: if the step-size is constant, the update rule is"
+    },
+    {
+        "guid": "f72cf01b-8f66-4e8f-a3b9-3bfb27f562d7",
+        "model_answer": "(10-arepsilon)2$"
+    },
+    {
+        "guid": "60c20157-95f6-4cf5-b71c-29ce9d194200",
+        "model_answer": "x = x - 1 y = x - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y = y - 1 if x == y: x = x - 1 y ="
+    },
+    {
+        "guid": "3538e748-434d-4ed8-adc3-e9bda94c46c9",
+        "model_answer": "If (a_ngeq 1b_n) for tout (ngeq 1), et si (sum_ngeq 1b_n) converge, then (sum_ngeq 1a_n) converge aussi."
+    },
+    {
+        "guid": "426d5d69-1a8d-4aca-b6f3-71b5a9af11ab",
+        "model_answer": "h1: Heap, h2: Heap; case class Empty(); case class Node(h: Int, value: Int, h1: Heap, h2: Heap): Int h1 = h match; case Empty() => -1; case Node(r, v, h1, h2) => r; def insert(x: Int, h: Heap) = merge(h, Node(0, x, Empty(), Empty())); def findMin(h: Heap): Int h1 = h match; case Empty() => 0; case Node(_, x, lh, rh) => x; def deleteMin(h: Heap): Int h1 = h match; case Empty() => 0; case Node(_, x, lh, rh) => x; def merge(h1, h2): Heap = h match; case Empty() => h; case Node(_, x1, lh1, rh) => merge(lh, rh); Merge(h1: Heap, h2: Heap): Heap = h match; case Empty() => h; case Node(_, x1, lh1, rh1) => shake(x1, lh1, merge(rh1, h2)); Merge(h1: Heap, h2: Heap): Heap = h match; case Empty() => h; case Node(_, x1, lh1, rh1) => shake(x1, lh1, merge(rh1, h2)); Merge(h1: Heap, h2: Heap): Heap = h match; case Empty() => h; case Node(_, x1, lh1, rh1) => shake(x1, lh1, merge"
+    },
+    {
+        "guid": "30afbb49-8450-43c9-bb4d-ffd127127497",
+        "model_answer": "(logbig(3+sqrt2big));"
+    },
+    {
+        "guid": "7c17680c-400d-4adf-96cb-7af4b14ff562",
+        "model_answer": "Calculer l'int\u00e9grale ( int_0pi1/33sin(sin(x33)),cos(x33),x32,dx:. )"
+    },
+    {
+        "guid": "d9b30a74-5f67-4c4a-9a83-e9bfd09bc47d",
+        "model_answer": "il est ferm\u00e9."
+    },
+    {
+        "guid": "99de7be3-24e6-45b7-9ef3-a9f1bd649c8a",
+        "model_answer": "fracpi4$ fracpi2$ fracpi3$ fracpi4$ fracpi2$ fracpi4$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$ fracpi2$"
+    },
+    {
+        "guid": "f2ccb67e-6051-4111-8434-0209cad56ee3",
+        "model_answer": "accuracy is a property of NLP tasks."
+    },
+    {
+        "guid": "04ca849b-3186-4abc-b865-c512d9119e0a",
+        "model_answer": "exceptions are a way to avoid a situation that is not a problem."
+    },
+    {
+        "guid": "36d8f75e-6249-4cab-9e1e-69571358b0ad",
+        "model_answer": "a=[] for i in range(1, 0): a.append([[0]*i for i in range(1, i + 1)]) for i in range(1, i + 1): a[i][0]=a[i][1] a[i][2]=a[i][3] a[i][4]=a[i][5] a[i][6]=a[i][7] a[i][8]=a[i][9] a[i][10]=a[i][10] a[i][11]=a[i][11] a[i][12]=a[i][13] a[i][14]=a[i][15] a[i][16]=a[i][16] a[i][17]=a[i][19] a[i][20]=a[i][21] a[i][22]=a[i][22] a[i][22]=a[i][20] a[i][22]=a[i][21] a[i][22]=a[i][22] a[i][22]=a[i][20] a[i][22]=a[i][20] a[i][22]=a[i][20] a[i][22]=a[i][20] a[i][22]=a[i][20] a[i][22]=a[i][20] a[i][22]=a[i][20] a[i][22]=a[i][20] a[i][22]=a[i][20] a[i][22]=a[i][20] a[i][22]=a[i][20] a[i][22]=a[i][20] a[i][22]=a"
+    },
+    {
+        "guid": "e1a1b845-bc57-4250-a715-6b7bf2f3e192",
+        "model_answer": "13"
+    },
+    {
+        "guid": "7a2855e0-5c47-4622-b025-4dfa11353f41",
+        "model_answer": "h1=h2=h"
+    },
+    {
+        "guid": "f24af540-a417-4810-b572-c6a816fd36d8",
+        "model_answer": "em (In this problem you are asked to (i) design an estimator that asks at most $3000 log(1/delta)/epsilon2$ persons and (ii) explain why it satisfies the guaranteeeqrefeq:guarantee2. Recall that you are allowed to refer to material covered in the lecture notes.)"
+    },
+    {
+        "guid": "aac16eb3-0584-4b0d-bee5-311565c0b0d7",
+        "model_answer": "Si (a_nleq b_n) pour une infinit\u00e9 d'indices (n), alors (b_ntoinfty)."
+    },
+    {
+        "guid": "c304254e-8c84-4179-a6a8-a78b3bdd633d",
+        "model_answer": "Supervised classification"
+    },
+    {
+        "guid": "6f0d7868-be35-4f47-8770-22999fe667a9",
+        "model_answer": "Create a solution for this problem."
+    },
+    {
+        "guid": "32cb1531-16d4-4bd0-871d-09c05f083d33",
+        "model_answer": "The float is a cylindrical shape with a radius $r$, a height $h$ and with an homogeneous mass. The float is standing vertically in water and it moves from top to bottom while always staying partially submerged. The volumeic mass of the float has a value equal to two thirds of the one of water : $ ho_f= rac23 ho_eau$. The differential equation of the float motion is omega_0$ and the damping coefficient is lambda$."
+    },
+    {
+        "guid": "215d2a69-d6c0-4aca-bf47-70eb2091c3fe",
+        "model_answer": "The attacker will be able to access the victim's code by executing a command that will execute a pre-determined sequence of commands."
+    },
+    {
+        "guid": "19799141-5b4f-4239-bc50-dd5c1c14a3e9",
+        "model_answer": "[A = left(beginarrayccc2 & 4 & 3-4 & -6 & -33 & 3 & 1endarrayright),quadC = left(beginarrayccc5 & 0 & 0 & 00 & 5 & 0 & 01 & 4 & -3 & 0-1 & -2 & 0 & -3endarrayright),quadS = left(beginarrayccc4 & 0 & -22 & 5 & 40 & 0 & 5endarrayright)]"
+    },
+    {
+        "guid": "f3ca44ac-51a9-4ff7-aec4-7b7d76f4837f",
+        "model_answer": "Eliminating noise from the measurement"
+    },
+    {
+        "guid": "a559e3e1-2520-4d95-9cc1-7cce4798fea3",
+        "model_answer": "Poor spatial resolution"
+    },
+    {
+        "guid": "52f78310-1458-4ad2-9605-e99a10e73550",
+        "model_answer": "They can focus on reproduction of some features rather than perfect reproduction of the experimental data"
+    },
+    {
+        "guid": "70f8efa0-1816-445b-a053-cf92ee323bab",
+        "model_answer": "Different names for the same frequency"
+    },
+    {
+        "guid": "98df46d4-9b69-4702-8e58-6e4c2fedc94e",
+        "model_answer": "endarrayright.$leftstartarrayrrrrrrrrrrx_1 & + & x_2 & + & x_3 & + & x_4 & + & x_5 & = & 2 x_1 & + & x_2 & + & x_3 & + & x_4 & + & 2 x_4 & + & 2 x_5 & = & 3 x_1 & + & x_2 & + & x_3 & + & x_4 & + & 2 x_5 & = & 3 x_1 & + & x_2 & + & x_3 & + & x_4 & + & 2 x_5 & = & 3 endarrayright.$leftstartarrayrrrrrrrrrrrrrrx_1 & + & x_2 & + & x_3 & + & x_4 & + & 2 x_5 & = & 3 endarrayright.$leftstartarrayrrrrrrrrrrrrrrrx_1 & + & x_2 & + & x_3 & + & x_4 & + & 2 x_5 & = & 3 endarrayright.$leftstartarrayrrrrrrrrrrrrrrrrrx_1 & + & x_2 & + & x_3 & + & x_4 & + & 2 x_5 & = & 3 endarrayright.$leftstartarrayrrrrrrrrrrrrrrrrrrrrrrrr"
+    },
+    {
+        "guid": "59c0251a-f677-46d1-aff0-a5435e62230c",
+        "model_answer": "[a]item The matrice of a quadratique is sym\u00e9trique.item The axes principals of a quadratique are the vectors propres of $A$.item A quadratique strictly positive satisfied $Q(x)>0$,$forall xinmathbbRn$.item If the true values of a sym\u00e9trique matrice $A$ are t all strictly positives, then the quadratique $xTAx$ is defined positively.item The expression $|x|2$ is a quadratique.endenumerate"
+    },
+    {
+        "guid": "13739c83-35d1-4fec-867c-98bd69f9ae73",
+        "model_answer": "Because we use exactly the same scheme."
+    },
+    {
+        "guid": "dc243fc6-5295-426f-ace7-c1594dcb4d59",
+        "model_answer": "Computational modeling"
+    },
+    {
+        "guid": "2f7b092b-e05b-4b04-a99c-b9963f8e3032",
+        "model_answer": "[mathjaxinline]leftlangle ei phileft(t_1right) -i phileft(t_2right)rightrangle=e-frac12 Dleft|t_1-t_2right|2[/mathjaxinline]; [mathjaxinline]leftlangle ei phileft(t_1right) -i phileft(t_2right)rightrangle=e-frac12 Dleft|t_1-t_2right|2[/mathjaxinline]; [mathjaxinline]leftlangle ei phileft(t_1right) -i phileft(t_2right)rightrangle=e-frac12 D2left|t_1-t_2right|2[/mathjaxinline]; [mathjaxinline]leftlangle ei phileft(t_1right) -i phileft(t_2right)rightrangle=e-frac12 D2left|t_1-t_2right|2[/mathjaxinline]"
+    },
+    {
+        "guid": "23ffa81e-c9d4-4c01-87ef-d88bb108587b",
+        "model_answer": "The change in voltage over the distance is related to the change in voltage over time;"
+    },
+    {
+        "guid": "2fabe332-48ef-433b-9b1c-b4e486180637",
+        "model_answer": "(e)"
+    },
+    {
+        "guid": "1986353f-b780-4b31-94d6-fd9af077fb07",
+        "model_answer": "Genetic characteristics are heritable, but not epigenetic one"
+    },
+    {
+        "guid": "b1ea7aed-566b-4da0-803d-f29fc4cf50e1",
+        "model_answer": "() () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () () ()"
+    },
+    {
+        "guid": "d563f81d-6eef-4e06-b40c-e00352d5aa78",
+        "model_answer": "Montrer que les op'erations 'el'ementaires sur les lignes dites 'valides' (as, l'ajout de une ligne \u00e0 une autre, l'\u00e9change de deux lignes, et la multiplication de une ligne par un r\u00e9el non nul) transforment un systemelin'aire en un systeme 'equivalent'."
+    },
+    {
+        "guid": "c1bc4cc6-e6af-4bb6-86c2-1dee8ec49ad2",
+        "model_answer": "on the u-nullcline, arrows point always vertically upward; on the u-nullcline, arrows point always horizontal; on the u-nullcline, arrows point always to the left"
+    },
+    {
+        "guid": "f732d470-1631-4a0d-b1f6-51e937cf55be",
+        "model_answer": "( dW_mag = int_0H H*dB*dV ); ( dW_mag = int_0B B*dH*dV ); ( dW_mag = int_0B H*dB*dV );"
+    },
+    {
+        "guid": "88379c2b-4bda-41c0-b1c1-e44dc19ea14b",
+        "model_answer": "Dipping before etching the wafer in diluted acetone solution"
+    },
+    {
+        "guid": "ec128ef4-97e2-4998-a41c-e6eab0953c8c",
+        "model_answer": "a consensus abstraction from a total-order broadcast abstraction"
+    },
+    {
+        "guid": "2b3de139-3757-4f15-9b48-e785fd51c3f4",
+        "model_answer": "PET scan begins with the administration of a radiopharmaceutical"
+    },
+    {
+        "guid": "19799141-5b4f-4239-bc50-dd5c1c14a3e9",
+        "model_answer": "[A = left(beginarrayccc2 & 4 & 3-4 & -6 & -33 & 3 & 1endarrayright),quadC = left(beginarrayccc5 & 0 & 0 & 00 & 5 & 0 & 01 & 4 & -3 & 0-1 & -2 & 0 & -3endarrayright),quadS = left(beginarrayccc4 & 0 & -22 & 5 & 40 & 0 & 5endarrayright)]"
+    },
+    {
+        "guid": "45f4f919-77fb-4bbc-92f6-172fec8f4a92",
+        "model_answer": "I'm a little confused. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do. I'm not sure what to do"
+    },
+    {
+        "guid": "f1d23839-38a5-46f6-946d-c0a11cc6c4e8",
+        "model_answer": "Gyromagnetic ratio"
+    },
+    {
+        "guid": "d12be254-279f-4223-852c-9bb0791bb816",
+        "model_answer": "(1.082 cdot 108) m"
+    },
+    {
+        "guid": "6a7100d1-64e2-426d-b762-62bafa8b9d55",
+        "model_answer": "Neurotransmitters are packaged in vesicles called quanta"
+    },
+    {
+        "guid": "458183ae-aef2-4798-b64d-b7de727c5300",
+        "model_answer": "(f) admet un d\u00e9veloppement de Taylor autour (x_0)."
+    },
+    {
+        "guid": "cc24cdb8-3a06-4a93-9b94-aca69608ddb1",
+        "model_answer": ""
+    },
+    {
+        "guid": "703e2827-6fe4-4f64-99ba-d81016d141ff",
+        "model_answer": "vrai"
+    },
+    {
+        "guid": "e384b432-93ad-4770-9d13-74fc984cff31",
+        "model_answer": "success point"
+    },
+    {
+        "guid": "de41310c-1119-420c-84f7-f391781a5f97",
+        "model_answer": "(A to 0, B to 10, C to 001, D to 000)."
+    },
+    {
+        "guid": "68e15f77-d5da-484b-ba19-659cc1bea2da",
+        "model_answer": "Energy of the emitted photons is sufficiently high to dissociate atoms, and so to ionize them."
+    },
+    {
+        "guid": "bee98e82-357d-4d86-8c63-2f4c36b56e3f",
+        "model_answer": "I."
+    },
+    {
+        "guid": "19a6f5aa-151f-4b61-9cc2-5b2872ce4e6f",
+        "model_answer": "It generates sets of parameter values (genotypes) that are used to generate and evaluate the resulting neuronal phenotype"
+    },
+    {
+        "guid": "f61d34e0-d7a9-40f6-a9d1-02ca34b8dc3f",
+        "model_answer": "Smaller voxel size"
+    },
+    {
+        "guid": "83ae18dc-a016-4f97-adc4-402ac56b1359",
+        "model_answer": "To understand how all elements of the brain interact with each other\u2019s"
+    },
+    {
+        "guid": "d875b0d6-054c-42b3-848f-7d354a32eea6",
+        "model_answer": "Potassium ions"
+    },
+    {
+        "guid": "be73736f-6104-4dc5-b315-618c35f0e5f6",
+        "model_answer": "(displaystyle lim_hto 0fracf(x_0)-f(x_0-h)h=f'(x_0)); (displaystyle lim_hto 0fracf(2x_0+h)-f(2x_0)h=2f'(x_0)); (displaystyle lim_zto x_0fracf(z)-f(x_0)z-x_0=f'(x_0)); (displaystyle lim_hto 0fracf(x_0+h2)-f(x_0)h=0)"
+    },
+    {
+        "guid": "1718610f-8dd6-4625-a6fb-becaf0881858",
+        "model_answer": "Worsens chemical shift artifacts"
+    },
+    {
+        "guid": "8bd54ea2-2ebb-40d4-9450-7b14a8b06b8a",
+        "model_answer": "[mathjaxinline]D=fracm gammak_B T[/mathjaxinline]"
+    },
+    {
+        "guid": "70f8efa0-1816-445b-a053-cf92ee323bab",
+        "model_answer": "Different names for the same frequency"
+    },
+    {
+        "guid": "e35d196d-d378-4134-9ac5-2e799a393890",
+        "model_answer": "Calculez la matrice associ'ee a la projection orthogonale sur le plan (W) de (mathbbR3) donn'e par[ W=leftvecx=left. beginpmatrixx_1 x_2x_3endpmatrixright| 2x_1-x_2=0right,.]"
+    },
+    {
+        "guid": "edc67f0d-3970-4202-88be-01a9fdc54246",
+        "model_answer": "All pixels of all patterns are equal to zero."
+    },
+    {
+        "guid": "3b7e8491-0a75-4620-9a08-5236121d55a3",
+        "model_answer": "left"
+    },
+    {
+        "guid": "53d7b649-afab-48bd-a2b4-769df94b491c",
+        "model_answer": "3.20 s"
+    },
+    {
+        "guid": "245c93a8-3253-4b95-aca5-6918cf5bd650",
+        "model_answer": "la force est proportionnelle au courant; la structure simple; le positionnement du mobile fait sansalimentation"
+    },
+    {
+        "guid": "bfef8387-5cd3-4cb1-9fbe-ae87f876425a",
+        "model_answer": "A current clamp keeping the current running in the axon constant"
+    },
+    {
+        "guid": "13739c83-35d1-4fec-867c-98bd69f9ae73",
+        "model_answer": "Because we use exactly the same scheme."
+    },
+    {
+        "guid": "64a34fa8-6bda-475f-b7da-b752ff1d1456",
+        "model_answer": "rien"
+    },
+    {
+        "guid": "e88dde48-5fbb-46b6-855f-1b41da17322b",
+        "model_answer": "They are the same"
+    },
+    {
+        "guid": "c3842176-bc8b-4bba-8ad5-fb127d3282d8",
+        "model_answer": "(a)"
+    },
+    {
+        "guid": "d32e91ed-7eb4-44cd-be2b-2defaff5ce00",
+        "model_answer": "Specific conductances must be at certain levels in order to generating a defined firing pattern"
+    },
+    {
+        "guid": "24e3fd38-37a4-4934-b74d-dc666e8c60b8",
+        "model_answer": "GABAergic inhibition counteracts glutamatergic excitation in neuronal networks of the brain."
+    },
+    {
+        "guid": "056ea0f5-990e-45ec-9d81-60ec66ecf9a9",
+        "model_answer": "[mathjaxinline]fracpartial p(n Delta, k tau)partial t=fracDelta2tau fracpartial2partial x2 p(n Delta, k tau)[/mathjaxinline]; [mathjaxinline]fracpartial p(n Delta, k tau)partial t=fracDelta2tau fracpartial2partial x2 p(n Delta, k tau)+frac(q-p)cdot Deltatau cdot fracpartialpartial x p(n Delta, k tau)[/mathjaxinline]; [mathjaxinline]fracpartial p(n Delta, k tau)partial t=fracDelta22 tau fracpartial2partial x2 p(n Delta, k tau)[/mathjaxinline]; [mathjaxinline]fracpartial p(n Delta, k tau)partial t=fracDelta22 tau fracpartial2partial x2 p(n Delta, k tau)[/mathjaxinline]"
+    },
+    {
+        "guid": "2d9de929-7645-4192-8b90-8a7c253b162a",
+        "model_answer": "the potential genetic basis of diseases"
+    },
+    {
+        "guid": "1d74cd2f-d3fc-4f0e-b3ec-b27225b9160e",
+        "model_answer": "In user mode, before and after a system call instruction(such as int 0x30), the stack pointer(esp in x86) stays the same."
+    },
+    {
+        "guid": "aa7e1cbf-f33f-4579-83d7-3bef5673a7ba",
+        "model_answer": "(dfrackappa4Omega)"
+    },
+    {
+        "guid": "ee1a1937-ed58-499b-94ea-fe6fdd4717e2",
+        "model_answer": "le champ \u00e9lectrique; le mouvement \u00e9lectrique; le champ magn\u00e9tique; le champ d'induction magn\u00e9tique"
+    },
+    {
+        "guid": "4c07c694-88e7-48d8-b711-e8809a0c679d",
+        "model_answer": "The enzyme DNA polymerase emits different light signals when adding different nucleotides during DNA synthesis"
+    },
+    {
+        "guid": "76ce9513-bd2e-460e-a0b4-7a36819646d2",
+        "model_answer": "For all entire (ngeq 1), il existe un irrationnel (y) tel que (0lt |x-y|leq frac110n)."
+    },
+    {
+        "guid": "6303517c-ecc8-4deb-8785-550de1188bca",
+        "model_answer": "RGB"
+    }
+]

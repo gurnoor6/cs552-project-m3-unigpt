@@ -1,0 +1,402 @@
+[
+    {
+        "guid": "94cdfd24-de94-4072-a5aa-a3a9dc953d2b",
+        "model_answer": "rer que tous les coefficients d'indices impairs (resp. pairs) sont nuls."
+    },
+    {
+        "guid": "3826e1bd-05f7-4f80-a6ad-937af83dc3e4",
+        "model_answer": "exact sequence of lemmas should we apply to rewrite the left hand-side ((x :: xs).mapTr(f, ys)) to the right hand-side (y :: (x :: xs).mapTr(f, ys))?"
+    },
+    {
+        "guid": "f6f7e3a3-b63a-4f13-abbe-a2b3f74c64e5",
+        "model_answer": "anglement is sufficient but not necessary for the violation of a Bell inequality;"
+    },
+    {
+        "guid": "0b473eff-0fc8-4fb0-9d10-bc49d18e52e3",
+        "model_answer": "er $F(x)$, primitive de $f(x)$ pour: 1. f(x)=cos(x) 2. f(x)= rac-3x2 3. f(x)=e2x 4. f(x)=sin(x) cos(x)"
+    },
+    {
+        "guid": "6654c2b0-4dcd-432e-9c8e-26d638afe0ef",
+        "model_answer": "file system implements directories as hash-tables. Choices: $O(1)$; $O(number of direntries in the directory)$; $O(size of the file system)$; $O(number of direntries in the file system)$;"
+    },
+    {
+        "guid": "202f9e3f-be4d-4b51-8789-f4eb0666690f",
+        "model_answer": "use linear regression, how do you help prevent numerical instabilities? (One or multiple answers) Choices: reduce learning rate; add a regularization term; remove degenerate features;"
+    },
+    {
+        "guid": "198d8637-b6eb-4a3a-92c0-6baad4f34a2e",
+        "model_answer": "supposant ces blocs (ceux du r\u00e9petoire Musique) stock\u00e9s \u00e0 partir de l\u2019adresse 42, et en supposant que le r\u00e9pertoire muche commence par r\u00e9pr\u00e9senter les informations du r\u00e9pertoire Musique, quel est le d\u00e9but du fichier repr\u00e9sentant le r\u00e9pertoire muche ?"
+    },
+    {
+        "guid": "da3590dc-4da0-4790-bd94-b9e56450702b",
+        "model_answer": "(fin C1(I)), alors il n'existe aucun (x_0in I) o\u00f9 (f) est deux fois d\u00e9rivable.; Si (f(k)) existe, alors (fin Ck(I)).; Si (fin C1(I)), alors (f':Ito bR) est born\u00e9e.; Si (fin C1(I)), et si (f') n'est pas born\u00e9e, alors (f) n'est pas born\u00e9e. ; Si (fin Ck(I)), alors (fin Cj(I)) pour tout entier (1leq jlt k).; Si (fin Ck(I)), alors pour tout (x_0in I) et tout (jin 1,2,dots,k), (lim_xto x_0f(j)(x)=f(j)(x_0)).;"
+    },
+    {
+        "guid": "299255b4-6b4b-423b-bafa-e1f2ca04ecb5",
+        "model_answer": "sequent URLs in an adjacency list have typically small differences; Typically many URLs in a web page are similar to each other; Often many URLs among two pages with similar URL are similar;"
+    },
+    {
+        "guid": "92251192-94ec-4d07-a94c-34775db00d70",
+        "model_answer": "is the variance of the random variable $wv op xx$ over the randomness of $xx$?"
+    },
+    {
+        "guid": "b82db1db-a6f9-4e3a-8d45-9a89cfddd953",
+        "model_answer": "gradient is very large so the model can't converge; Training is fine, but our neural net does only as well as a linear model;"
+    },
+    {
+        "guid": "e07a6c79-461a-40f2-b8a8-402f92e38839",
+        "model_answer": "the polarization state of a $alpha$-degree linearly polarized input beam that is passing through a HWP (use jones vector representation)."
+    },
+    {
+        "guid": "1f0c9830-5cb9-44ef-865a-1681b7cae654",
+        "model_answer": "bien existent-ils d'\u00e9tats microscopiques?"
+    },
+    {
+        "guid": "8dca0280-913e-469b-a9b0-e0edea7fc589",
+        "model_answer": "time"
+    },
+    {
+        "guid": "e82b5b83-63be-4052-8b90-856964aa898b",
+        "model_answer": "beginenumerate item Si (f'(x)geq 0) pour tout (xin:]a,b[,). item Si (f) est croissante sur ([a,b]), alors (f'(x)geq 0) pour tout (xin:]a,b[,). item Si (f'(x)> 0) pour tout (xin:]a,b[,). item Si (limlimits_xto a+f'(x)=ell) existe, alors (f) est d\u00e9rivable \u00e0 droite en (a) et la d\u00e9riv\u00e9e \u00e0 droite est (f'_+(a)=ell). endenumerate"
+    },
+    {
+        "guid": "fb202e2b-e599-44d7-b4ff-3fec50e91311",
+        "model_answer": "-log(P(y=i | textbfx)) = -log(fracetextbff_i(textbfx,W)sum_j etextbff_j(textbfx,W))$ ;"
+    },
+    {
+        "guid": "7690f1a8-df38-4e65-a667-09f0877fb255",
+        "model_answer": "you expect to find the memory address where a particular instruction was fetched (i.e., the value of the PC at the time of fetching) inside the reorder buffer? If so, why would it be there? If not, elaborate on why it would be unneeded."
+    },
+    {
+        "guid": "a442d457-38a3-4ec4-898f-89cbbf5db372",
+        "model_answer": "textconverge&text si mu>1,, textdiverge&text si muleq 1,. endcases ]"
+    },
+    {
+        "guid": "bfb2e9ae-9035-40ee-8406-b95519d675ac",
+        "model_answer": "faisant beaucoup de disques en parall\u00e8le, on n\u2019arriverait pas \u00e0 construire une connexion assez rapide pour y enregistrer toutes ces donn\u00e9es en temps r\u00e9el sans en perdre. Une batterie de circuits logiques (hardware) analysent ces donn\u00e9es en temps r\u00e9el et les filtrent par un facteur de l\u2019ordre de 1000 avant de les injecter directement dans les m\u00e9moires centrales d\u2019une batterie de processeurs sp\u00e9cialis\u00e9s qui les r\u00e9duisent encore par un facteur de l\u2019ordre de 1000. En arrondissant aux ordres de grandeur, combien de disques \u00e0 100 Mo/s en parall\u00e8le sont n\u00e9cessaires pour un d\u00e9bit de 1 Go/s ?"
+    },
+    {
+        "guid": "6fab6a7c-f678-401b-965d-4b1b7e514852",
+        "model_answer": "file system implements directories as linked-lists. Choices: $O(1)$; $O(number of direntries in the directory)$; $O(size of the file system)$; $O(number of direntries in the file system)$;"
+    },
+    {
+        "guid": "841d52c7-5353-424c-a1f4-8ebf473ecc6d",
+        "model_answer": "want to solve the problem using the minibatch Stochastic Gradient Descent (SGD). Write and explain the update rule for SGD with a batch size $B$ and a constant step-size $alpha=frac1L$."
+    },
+    {
+        "guid": "f72cf01b-8f66-4e8f-a3b9-3bfb27f562d7",
+        "model_answer": "is the maximum value of the optimization problem in Eq.(AMCrefeq:opt_adv_regression)? Choices: $(5+9arepsilon)2$; $(3+10arepsilon)2$; $(10-arepsilon)2$; Other;"
+    },
+    {
+        "guid": "60c20157-95f6-4cf5-b71c-29ce9d194200",
+        "model_answer": "function that takes as input the data matrix X and the labels y, and returns the coefficient and the bias of linear regression predictor using the closed-form solution."
+    },
+    {
+        "guid": "3538e748-434d-4ed8-adc3-e9bda94c46c9",
+        "model_answer": "il existe deux sous-suites ((a_n_k)_k) et ((b_n_k)_k) telles que (0leq a_n_kleq b_n_k) pour tout (k) suffisamment grand, et si (sum_nb_n) converge, alors (sum_na_n) converge aussi. ;"
+    },
+    {
+        "guid": "426d5d69-1a8d-4aca-b6f3-71b5a9af11ab",
+        "model_answer": "1 shows two example leftist min heaps, with values inside each node and ranks next to each node. To merge the two heaps, we first obtain the min heap from Figure 2, which satisfies the property P.1 but not the property P.2, and finally the leftist min heap from Figure 3, which satisfies both properties. Complete the implementation of the merge function by replacing SSS and MMM lines: A. case _ => if (rank(lh) >= rank(rh)) Node(rank(rh) + 1, x, lh, rh) B. case _ if (rank(lh) >= rank(rh)) => Node(rank(rh) + 1, x, lh, rh) C. case (Node(r1, x1, _, _), Node(r2, x2, _, _)) => if (r1 >= r2) Node(rank(rh) + 1, x, lh, rh) D. case (Node(r1, x1, lh1, rh1), Node(r2, x2, lh2, rh2)) => if (x1 > x2) shake( x2, lh2, merge(h1, rh2)) E. case (Node(_, x1, lh1, rh1), Node(_, x2, lh2, rh2)) if (x1 > x2) shake(x2, lh2, merge(h1, rh2)) F. case _ if (x1 > x2) => shake(x2, lh2, merge(h1, rh2))"
+    },
+    {
+        "guid": "30afbb49-8450-43c9-bb4d-ffd127127497",
+        "model_answer": "logbig(3+sqrt2big)); (logbig(1+dfrac23sqrt2big));"
+    },
+    {
+        "guid": "7c17680c-400d-4adf-96cb-7af4b14ff562",
+        "model_answer": "Calculer l'int\u00e9grale ( int_0pi1/33sin(sin(x33)),cos(x33),x32,dx:. )"
+    },
+    {
+        "guid": "d9b30a74-5f67-4c4a-9a83-e9bfd09bc47d",
+        "model_answer": "est ferm\u00e9.; son compl\u00e9mentaire est ouvert.; il existe au moins un (xin A) tel que (]x-epsilon,x+epsilon[notsubset A) pour tout (epsilon>0).; pour tout (xin A), il n'existe aucun (epsilon>0) tel que (]x-epsilon,x+epsilon[subset A).;"
+    },
+    {
+        "guid": "99de7be3-24e6-45b7-9ef3-a9f1bd649c8a",
+        "model_answer": "sume a $fracpi4$ degree polarized input beam and find the jones vector representation of the output beam if it is passing through a QWP/HWP."
+    },
+    {
+        "guid": "f2ccb67e-6051-4111-8434-0209cad56ee3",
+        "model_answer": "general, what property(ies) must an NLP task satisfy in order to be evaluable through accuracy?"
+    },
+    {
+        "guid": "04ca849b-3186-4abc-b865-c512d9119e0a",
+        "model_answer": "exceptions must be implemented precisely. Explain why"
+    },
+    {
+        "guid": "36d8f75e-6249-4cab-9e1e-69571358b0ad",
+        "model_answer": "build $A$ use a single filter of size 2, a=(a_1, a_2)."
+    },
+    {
+        "guid": "e1a1b845-bc57-4250-a715-6b7bf2f3e192",
+        "model_answer": "is the edge betweenness for edge (7-5) in the following graph? Choices: 12.5; 13; 7.5;"
+    },
+    {
+        "guid": "7a2855e0-5c47-4622-b025-4dfa11353f41",
+        "model_answer": "concatenating two conc-trees of heights $h_1$ and $h_2$ yields a conc-tree with height $h$ where"
+    },
+    {
+        "guid": "f24af540-a417-4810-b572-c6a816fd36d8",
+        "model_answer": "delta >0$, your task is to design and analyze an estimator that outputs a random value $Y$ with the following guarantee: beginalign labeleq:guarantee2 Pr[|Y - W| geq epsilon W] leq delta,. %qquad mbox where $epsilon > 0$ is a small constant. endalign Your estimator should ask at most $3000log(1/delta)/epsilon2$ persons about their preferences.  While you should explain why your estimator works and what tools to use to analyze it, emphyou do not need to do any detailed calculations.  em (In this problem you are asked to (i) design an estimator that asks at most $3000 log(1/delta)/epsilon2$ persons and (ii) explain why it satisfies the guaranteeeqrefeq:guarantee2. Recall that you are allowed to refer to material covered in the lecture notes.)"
+    },
+    {
+        "guid": "aac16eb3-0584-4b0d-bee5-311565c0b0d7",
+        "model_answer": "(n), alors (frac1b_nto 0).; Si (b_nleq a_n), alors ((b_n)) est major\u00e9e.; Si (b_n) est minor\u00e9e, alors (a_nb_nto infty).; Si il existe (deltageq 0) tel que (b_ngeq delta) pour tout (n) suffisamment grand, alors (a_nb_nto infty). ; Si (r>1), alors (fraca_nrnto 0).; (e-a_nto 0);"
+    },
+    {
+        "guid": "c304254e-8c84-4179-a6a8-a78b3bdd633d",
+        "model_answer": "vised regression, estimation; Supervised classification; Unsupervised clustering;"
+    },
+    {
+        "guid": "6f0d7868-be35-4f47-8770-22999fe667a9",
+        "model_answer": "crivez un algorithme pour r\u00e9soudre ce probl\u00e8me."
+    },
+    {
+        "guid": "32cb1531-16d4-4bd0-871d-09c05f083d33",
+        "model_answer": "the differential equation of the float motion. Express the non damped pulsation $omega_0$ and the damping coefficient $lambda$ as function of the problem data."
+    },
+    {
+        "guid": "215d2a69-d6c0-4aca-bf47-70eb2091c3fe",
+        "model_answer": "information does it typically reveal to the attacker about the victim code?"
+    },
+    {
+        "guid": "19799141-5b4f-4239-bc50-dd5c1c14a3e9",
+        "model_answer": "cas \u00e9ch\u00e9ant, diagonaliser ces matrices en donnant explicitement une matrice diagonale et une matrice de changement de base.[A=left(beginarrayccc2 & 4 & 3-4 & -6 & -33 & 3 & 1endarrayright),quadC=left(beginarraycccc5 & 0 & 0 & 00 & 5 & 0 & 01 & 4 & -3 & 0-1 & -2 & 0 & -3endarrayright),,quadS=left(beginarrayccc4 & 0 & -22 & 5 & 40 & 0 & 5endarrayright)]"
+    },
+    {
+        "guid": "f3ca44ac-51a9-4ff7-aec4-7b7d76f4837f",
+        "model_answer": "ing the cell alive for a sufficient amount of time"
+    },
+    {
+        "guid": "a559e3e1-2520-4d95-9cc1-7cce4798fea3",
+        "model_answer": "characteristic feature of a projection radiograph is: Choices: Poor spatial resolution; Lengthy data acquisition;"
+    },
+    {
+        "guid": "52f78310-1458-4ad2-9605-e99a10e73550",
+        "model_answer": "account for variability in the experimental data and penalize the model according to experimental variability; They can focus on reproduction of some features rather than perfect reproduction of the experimental data; They do not sum the features;"
+    },
+    {
+        "guid": "70f8efa0-1816-445b-a053-cf92ee323bab",
+        "model_answer": "names for the same frequency"
+    },
+    {
+        "guid": "98df46d4-9b69-4702-8e58-6e4c2fedc94e",
+        "model_answer": "leftarrayrrrrrrrx_1 & + & x_2 & + & x_4 & + & x_5 & = & 2 x_1 & + & x_2 & + & x_3 & + & 2 x_4 & + & 2 x_5 & = & 3 x_1 & + & x_2 & + & x_3 & + & 2 x_4 & + & 3 x_5 & = & 2 endarrayright.$"
+    },
+    {
+        "guid": "59c0251a-f677-46d1-aff0-a5435e62230c",
+        "model_answer": "a)]item La matrice d'une forme quadratique est sym\u00e9trique.item Les axes principaux d'une forme quadratique sont les vecteurs propres de $A$.item Une forme quadratique strictement positive satisfait $Q(x)>0$,$forall xinmathbbRn$.item Si les valeurs propres d'une matrice sym\u00e9trique $A$ sont toutes strictement positives, alors la forme quadratique $xTAx$ est d\u00e9finie positive. item L'expression $|x|2$ est une forme quadratique.endenumerate"
+    },
+    {
+        "guid": "13739c83-35d1-4fec-867c-98bd69f9ae73",
+        "model_answer": "it is almost impossible to train a network with 10 layers without a supercomputer."
+    },
+    {
+        "guid": "dc243fc6-5295-426f-ace7-c1594dcb4d59",
+        "model_answer": "tools are typically used to study gene regulatory networks? Choices: Computational modeling; Genetic knockouts; Patch-clamp;"
+    },
+    {
+        "guid": "2f7b092b-e05b-4b04-a99c-b9963f8e3032",
+        "model_answer": "mathjaxinline] is a Wiener process with diffusion constant [mathjaxinline]D[/mathjaxinline] Choices: [mathjaxinline]leftlangle ei phileft(t_1right)-i phileft(t_2right)rightrangle=e-frac12 D2left|t_1-t_2right|2[/mathjaxinline]; [mathjaxinline]leftlangle ei phileft(t_1right)-i phileft(t_2right)rightrangle=e-frac12 D2left|t_1-t_2right|2[/mathjaxinline];"
+    },
+    {
+        "guid": "23ffa81e-c9d4-4c01-87ef-d88bb108587b",
+        "model_answer": "conductance for each ion stays the same all along the axon and dendrites; It quantifies the propagation of a signal along the axon and dendrites; The change in voltage over the distance is related to the change in voltage over time;"
+    },
+    {
+        "guid": "2fabe332-48ef-433b-9b1c-b4e486180637",
+        "model_answer": "a) $D$; (c) $N-D$; (d) $N-D+1$; (e) $N-D-1$; (f) $N-1$;"
+    },
+    {
+        "guid": "1986353f-b780-4b31-94d6-fd9af077fb07",
+        "model_answer": "characteristics are heritable, but not epigenetic one; Epigenetic characteristics vary between cell types, but genetic characteristics do not; Differences in epigenetics do not influence gene expression whereas genetic variability does;"
+    },
+    {
+        "guid": "b1ea7aed-566b-4da0-803d-f29fc4cf50e1",
+        "model_answer": "tout matrice inversible (P) de taille (ntimes n), (lambda)est une valeur propre de (A) si et seulement si (lambda) est une valeur proprede (P-1AP)."
+    },
+    {
+        "guid": "d563f81d-6eef-4e06-b40c-e00352d5aa78",
+        "model_answer": "rer que les op'erations 'el'ementaires sur les lignes dites \"valides\" (\u00e0savoir, l'ajout d'une ligne \u00e0 une autre, l'\u00e9change de deux lignes, et lamultiplication d'une ligne par un r\u00e9el non nul) transforment un systemelin'eaire en un systeme 'equivalent."
+    },
+    {
+        "guid": "c1bc4cc6-e6af-4bb6-86c2-1dee8ec49ad2",
+        "model_answer": "on the u-nullcline, arrows are always vertical; on the u-nullcline, arrows are always horizontal; on the u-nullcline, arrows point always to the left;"
+    },
+    {
+        "guid": "f732d470-1631-4a0d-b1f6-51e937cf55be",
+        "model_answer": "s: ( dW_mag = int_0H H*dB*dV ); ( dW_mag = int_0B B*dH*dV ); ( dW_mag = int_0B H*dB*dV );"
+    },
+    {
+        "guid": "88379c2b-4bda-41c0-b1c1-e44dc19ea14b",
+        "model_answer": "sing the wafer in a PGMEA developer; Gently blowing the wafer surface with nitrogen gun to create AlN gas; Dipping before etching the wafer in diluted acetone solution;"
+    },
+    {
+        "guid": "ec128ef4-97e2-4998-a41c-e6eab0953c8c",
+        "model_answer": "Describe a transformation between these two primitives in the other direction, that is, implement a (uniform) consensus abstraction from a (uniform) total-order broadcast abstraction."
+    },
+    {
+        "guid": "2b3de139-3757-4f15-9b48-e785fd51c3f4",
+        "model_answer": "detection ring used in PET and SPECT are different; PET scan begins with the administration of a radiopharmaceutical; PET scan requires a longer time for data collection;"
+    },
+    {
+        "guid": "19799141-5b4f-4239-bc50-dd5c1c14a3e9",
+        "model_answer": "cas \u00e9ch\u00e9ant, diagonaliser ces matrices en donnant explicitement une matrice diagonale et une matrice de changement de base.[A=left(beginarrayccc2 & 4 & 3-4 & -6 & -33 & 3 & 1endarrayright),quadC=left(beginarraycccc5 & 0 & 0 & 00 & 5 & 0 & 01 & 4 & -3 & 0-1 & -2 & 0 & -3endarrayright),,quadS=left(beginarrayccc4 & 0 & -22 & 5 & 40 & 0 & 5endarrayright)]"
+    },
+    {
+        "guid": "45f4f919-77fb-4bbc-92f6-172fec8f4a92",
+        "model_answer": "Yes"
+    },
+    {
+        "guid": "f1d23839-38a5-46f6-946d-c0a11cc6c4e8",
+        "model_answer": "tissue contrast in MRI is obtained with differences in... Choices: Gyromagnetic ratio; Spin-spin and spin-lattice relaxation constants; Carbon and nitrogen abundance;"
+    },
+    {
+        "guid": "d12be254-279f-4223-852c-9bb0791bb816",
+        "model_answer": "s: (1.082 cdot 108) m; (108.2 cdot 1010) m;"
+    },
+    {
+        "guid": "6a7100d1-64e2-426d-b762-62bafa8b9d55",
+        "model_answer": "transmitters are packaged in vesicles called quanta; All synapses have the same number of release sites (N); One quantum generates a miniature end plate potential, which is the smallest amount of stimulation that one neuron can send to another neuron;"
+    },
+    {
+        "guid": "458183ae-aef2-4798-b64d-b7de727c5300",
+        "model_answer": "rai ou faux? Choices: Si (R_n(x)to 0) lorsque (ntoinfty), alors (f) admet un d\u00e9veloppement de Taylor autour (x_0).;"
+    },
+    {
+        "guid": "cc24cdb8-3a06-4a93-9b94-aca69608ddb1",
+        "model_answer": "rer les affirmations suivantes.$( u| v) = frac14 left(| u+ v|2 - | u- v|2right)$pour tous $ u, vin V$."
+    },
+    {
+        "guid": "703e2827-6fe4-4f64-99ba-d81016d141ff",
+        "model_answer": "displaystylelimsup_ntoinfty (a_n+b_n)= bigl(limsup_ntoinftya_nbigr)+ bigl(limsup_ntoinftyb_nbigr)) ;"
+    },
+    {
+        "guid": "e384b432-93ad-4770-9d13-74fc984cff31",
+        "model_answer": "which point does the venture start to bring in money? Choices: cashflow positive point; profit point; success point;"
+    },
+    {
+        "guid": "de41310c-1119-420c-84f7-f391781a5f97",
+        "model_answer": "to 11, B to 10, C to 01, D to 00).; (A to 0, B to 10, C to 11, D to 101).; (A to 1, B to 01, C to 001, D to 000).;"
+    },
+    {
+        "guid": "68e15f77-d5da-484b-ba19-659cc1bea2da",
+        "model_answer": "is the star's magnetic field that ejects electrons.; Energy of the emitted photons is sufficiently high to dissociate atoms, and so to ionize them.; Gravitational influence if sufficient to ionize the gas.;"
+    },
+    {
+        "guid": "bee98e82-357d-4d86-8c63-2f4c36b56e3f",
+        "model_answer": "are your thoughts on this?"
+    },
+    {
+        "guid": "19a6f5aa-151f-4b61-9cc2-5b2872ce4e6f",
+        "model_answer": "algorithms find the optimal parameter values over the whole possible parameter space; It generates sets of parameter values (genotypes) that are used to generate and evaluate the resulting neuronal phenotype; It generates a large number of random sets of parameter values that are ranked according to goodness of fit, the best fitting one is selected as the final set;"
+    },
+    {
+        "guid": "f61d34e0-d7a9-40f6-a9d1-02ca34b8dc3f",
+        "model_answer": "er field of view; Smaller matrix size; Smaller voxel size;"
+    },
+    {
+        "guid": "83ae18dc-a016-4f97-adc4-402ac56b1359",
+        "model_answer": "bypass the measurement of all elements involved in the brain for all ages, species, strains and diseases; To understand how all elements of the brain interact with each other\u2019s; To predict what is the result of a change in some of the components composing the brain;"
+    },
+    {
+        "guid": "d875b0d6-054c-42b3-848f-7d354a32eea6",
+        "model_answer": "combination of chloride and calcium ions; Sodium ions; Potassium ions;"
+    },
+    {
+        "guid": "be73736f-6104-4dc5-b315-618c35f0e5f6",
+        "model_answer": "choix: le nombre (f(x_0)) est bien d\u00e9fini; (displaystyle lim_hto 0fracf(x_0)-f(x_0-h)h=f'(x_0)); (displaystyle lim_hto 0fracf(2x_0+h)-f(2x_0)h=2f'(x_0)); (displaystyle lim_zto x_0fracf(z)-f(x_0)z-x_0=f'(x_0)); (displaystyle lim_hto 0fracf(x_0+h2)-f(x_0)h=0) ;"
+    },
+    {
+        "guid": "1718610f-8dd6-4625-a6fb-becaf0881858",
+        "model_answer": "s signal misregistration and does not affect destructive interference;"
+    },
+    {
+        "guid": "8bd54ea2-2ebb-40d4-9450-7b14a8b06b8a",
+        "model_answer": "mathjaxinline]D=fracm gk_B T[/mathjaxinline]; [mathjaxinline]D=frack_B Tm g[/mathjaxinline];"
+    },
+    {
+        "guid": "70f8efa0-1816-445b-a053-cf92ee323bab",
+        "model_answer": "names for the same frequency"
+    },
+    {
+        "guid": "e35d196d-d378-4134-9ac5-2e799a393890",
+        "model_answer": "W=leftvecx=left.beginpmatrixx_1 x_2x_3endpmatrixright| 2x_1-x_2=0right,.]"
+    },
+    {
+        "guid": "edc67f0d-3970-4202-88be-01a9fdc54246",
+        "model_answer": "of the following interpretations of this property is correct: Choices: The patterns are balanced: The mean of each pixel across patterns is zero; All pixels of all patterns are equal to zero.; Half of the patterns only show positive, the other half only negative pixels;"
+    },
+    {
+        "guid": "3b7e8491-0a75-4620-9a08-5236121d55a3",
+        "model_answer": "which step of the $K$-means algorithm does it correspond? Choices:"
+    },
+    {
+        "guid": "53d7b649-afab-48bd-a2b4-769df94b491c",
+        "model_answer": "long does it take for the free induction decay of an NMR line with T2 = 0.5 s to decay to 1% of its initial amplitude? Choices: 2.30 s; 2.90 s; 3.20 s;"
+    },
+    {
+        "guid": "245c93a8-3253-4b95-aca5-6918cf5bd650",
+        "model_answer": "s: la force est proportionnelle au courant; la structure simple; le positionnement de la pi\u00e8ce mobile se fait sans alimentation;"
+    },
+    {
+        "guid": "bfef8387-5cd3-4cb1-9fbe-ae87f876425a",
+        "model_answer": "current clamp keeping the current running in the axon constant; A space clamp that renders the full axon iso-potential; A voltage clamp to force the two side of the membrane to have a fixes voltage difference;"
+    },
+    {
+        "guid": "13739c83-35d1-4fec-867c-98bd69f9ae73",
+        "model_answer": "it is almost impossible to train a network with 10 layers without a supercomputer."
+    },
+    {
+        "guid": "64a34fa8-6bda-475f-b7da-b752ff1d1456",
+        "model_answer": "'elle est \u00e9gale \u00e0 la r\u00e9sistance du fil multipli\u00e9 par le courant, plus la variation du flux totalis\u00e9;"
+    },
+    {
+        "guid": "e88dde48-5fbb-46b6-855f-1b41da17322b",
+        "model_answer": "s are born with a more mature brain, thus parts of mouse postnatal development correspond to human embryonic development;"
+    },
+    {
+        "guid": "c3842176-bc8b-4bba-8ad5-fb127d3282d8",
+        "model_answer": "a) Logistic loss is typically preferred over $L_2$ loss (least squares loss) in classification tasks.;"
+    },
+    {
+        "guid": "d32e91ed-7eb4-44cd-be2b-2defaff5ce00",
+        "model_answer": "cell type has a fixed firing pattern that results from all individual cells of the same type having the same somatic and dendritic conductances; Each combination of conductances generate a different firing behavior; Specific conductances must be at certain levels in order to generating a defined firing pattern;"
+    },
+    {
+        "guid": "24e3fd38-37a4-4934-b74d-dc666e8c60b8",
+        "model_answer": "ABAergic neurons make synapses at specific dendritic locations; GABA acts upon postsynaptic neurons to prevent them from firing action potentials; GABAergic inhibition counteracts glutamatergic excitation in neuronal networks of the brain;"
+    },
+    {
+        "guid": "056ea0f5-990e-45ec-9d81-60ec66ecf9a9",
+        "model_answer": "mathjaxinline]fracpartial2tau fracpartial2partial x2 p(n Delta, k tau)[/mathjaxinline]; [mathjaxinline]fracpartial p(n Delta, k tau)partial t=fracDelta22 tau fracpartial2partial x2 p(n Delta, k tau)[/mathjaxinline];"
+    },
+    {
+        "guid": "2d9de929-7645-4192-8b90-8a7c253b162a",
+        "model_answer": "genome sequencing can provide information on... Choices: the potential genetic basis of diseases; the causes of genetic mutations in the population; the level of genetic diversity within a population;"
+    },
+    {
+        "guid": "1d74cd2f-d3fc-4f0e-b3ec-b27225b9160e",
+        "model_answer": "system call is for handling interrupts like dividing zero error and page fault.; In user mode, before and after a system call instruction(such as int 0x30), the stack pointer(esp in x86) stays the same.;"
+    },
+    {
+        "guid": "aa7e1cbf-f33f-4579-83d7-3bef5673a7ba",
+        "model_answer": "bigg(dfrackappa4Omegabigg)2); (dfrackappa4Omega); (dfrac4g2kappaGamma);"
+    },
+    {
+        "guid": "ee1a1937-ed58-499b-94ea-fe6fdd4717e2",
+        "model_answer": "champ \u00e9lectrique; le champ d'induction magn\u00e9tique;"
+    },
+    {
+        "guid": "4c07c694-88e7-48d8-b711-e8809a0c679d",
+        "model_answer": "enzyme DNA polymerase emits different light signals when adding different nucleotides during DNA synthesis;"
+    },
+    {
+        "guid": "76ce9513-bd2e-460e-a0b4-7a36819646d2",
+        "model_answer": "tout entier (ngeq 1), il existe un irrationnel (y) tel que (0lt |x-y|leq frac110n).; Pour tout entier (ngeq 1), il existe une infinit\u00e9 de rationnels (y) tels que (0lt |x-y|leq frac110n).;"
+    },
+    {
+        "guid": "6303517c-ecc8-4deb-8785-550de1188bca",
+        "model_answer": "classify traffic signs, which sensor(s) will lead to the best accuracy? (One answer) Choices: Lidar; Thermal; RGB;"
+    }
+]
